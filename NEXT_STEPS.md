@@ -1,0 +1,56 @@
+# What remains to try
+
+**Snapshot: 11 October 2026.** The objective remains a justified plaintext,
+method and key with exact 97-letter re-encryption and independent corroboration.
+No result currently meets that standard.
+
+The best next step is one that distinguishes plausible explanations. Simply
+adding more adjustable settings can produce more fits without teaching us much.
+
+## Current work and immediate priorities
+
+| Priority | Item | State at this snapshot | Concrete next step | Why it matters |
+| :--- | :--- | :--- | :--- | :--- |
+| Complete | Turning-grille keyword result | All phases and both key signs tested; nine relaxed fits fail exact geometry; the finite catalog is closed within its declared scope | Preserve this result; revisit only when changing an explicit assumption | Avoids repeating a completed physical-mask test |
+| 1 | Keep this research record useful | Summary created; detailed evidence remains in the working archive | Update the results table and evidence hashes when a conclusion changes | Prevents duplicated work and stale “still running” claims |
+| 1 | Revisit the human/physical clues | Source and original-resolution compass-photo review assigned to Claude Online | Report literal observations separately from a proposed reproducible operation | A missing instruction may matter more than another alphabet catalog |
+| 2 | Clarify the historical clock evidence | Partial dated panels verified; full 1989 roster unresolved | Locate a dated original diagram or sufficiently clear complete photographs | Stops modern labels and museum-model differences contaminating hypotheses |
+| 2 | Improve access to original clue wording | The linked November 2025 letter was inaccessible in our checks | Read an accessible primary copy or transcript and preserve its provenance | Avoids turning paraphrases into stronger claims than the author made |
+
+These entries describe assignments and priorities, not proof that a process is
+currently running. The working archive records actual process completion.
+
+## Open experimental directions
+
+These are **possibilities to assess**, not claims about Sanborn's method or a
+commitment to launch every search.
+
+| Direction | What remains open | What would make the next test worthwhile |
+| :--- | :--- | :--- |
+| Clock as a physical instruction | Irregular movement, synchronisation, viewpoint or a reading action rather than a numerical keystream | A source-supported action that fixes the choices before examining the plaintext |
+| Turning-grille variants | Other padding/blank conventions, dimensions, longer unrestricted keys and other alphabet orders | A historical or physical reason to choose a variant; a cheap necessary test before orbit search |
+| Nicodemus beyond the proven range | Arbitrary alphabets and unrestricted widths ≥20; different chunk sizes | A reason to prefer a specific variant over many equally flexible alternatives |
+| Free-alphabet Quagmire, Gromark or Chaocipher | Crib-compatible systems remain; some search methods have weak recovery power | Recover held-out 97-letter examples first, then compare actual results with matched controls |
+| Fractionation | Bifid/Trifid settings with alphabetic completions remain feasible | Additional independently motivated structure on the square/cube or a demonstrably effective decoder |
+| Dependencies between K1–K4 | Some direct K3-derived streams were tested, but cross-passage instructions remain broader | An explicit reversible operation and a prediction beyond the released clues |
+| A message with structure other than ordinary prose | Directions, timings, a delivery protocol or an intermediate instruction | A method that explains the letters without forcing an invented story into the unknown slots |
+| Visual information lost in transcription | Front/back reading, layout, material relationships and other documented features | A reproducible physical reading backed by clear source material |
+
+## What we should avoid repeating
+
+- Re-running an already exhausted catalog without changing a material assumption.
+- Treating “no good English found” as an impossibility proof.
+- Treating modern clock labels as a verified 1989 key.
+- Adding words such as MEET, AT or a location to the hard cribs because they fit a story.
+- Treating a fitted arbitrary alphabet, plaintext fragment or exact re-encryption
+  with a retrospectively chosen key as authentication.
+- Expanding a slow search whose ability to recover comparable known examples
+  has not been measured.
+
+## How to propose a useful experiment
+
+Write down the source or motivation, the exact forward-encryption rule, every
+free choice and the finite search boundary. Check a published example where
+one exists, then generate full-length examples and recover their planted
+settings. Keep positive fits, exact exclusions and timeouts distinct. A second
+implementation should check any result that materially changes our conclusion.

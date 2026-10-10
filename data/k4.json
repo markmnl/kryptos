@@ -1,0 +1,31 @@
+{
+  "ciphertext": "OBKRUOXOGHULBSOLIFBBWFLRVQQPRNGKSSOTWTQSJQSSEKZZWATJKLUDIAWINFBNYPVTTMZFPKWGDKZXTJCDIGKUHUAUEKCAR",
+  "length": 97,
+  "indexing": "crib starts are 1-based; ciphertext excludes the preceding question mark",
+  "cribs": [
+    {
+      "start": 22,
+      "plaintext": "EAST",
+      "ciphertext": "FLRV"
+    },
+    {
+      "start": 26,
+      "plaintext": "NORTHEAST",
+      "ciphertext": "QQPRNGKSS"
+    },
+    {
+      "start": 64,
+      "plaintext": "BERLIN",
+      "ciphertext": "NYPVTT"
+    },
+    {
+      "start": 70,
+      "plaintext": "CLOCK",
+      "ciphertext": "MZFPK"
+    }
+  ],
+  "ciphertext_primary_source": "https://www.cia.gov/legacy/headquarters/kryptos-sculpture",
+  "crib_research_source": "https://ecp.ep.liu.se/index.php/histocrypt/article/download/153/109",
+  "snapshot_date": "2026-10-11",
+  "project_status": "No authenticated solution produced by this project."
+}

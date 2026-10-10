@@ -1,0 +1,91 @@
+# Evidence and research method
+
+This repository is a **summary snapshot**, not the full computational archive.
+It is intended to be easy to read on GitHub. Code, large catalogs, downloaded
+research images and raw logs remain in the separate working directory
+`../kryptos`.
+
+The file paths below are relative to that working archive, not links to files
+bundled in this repository. [The manifest](data/evidence-manifest.json) records
+SHA-256 hashes and sizes for selected source notes and results at the time of
+this snapshot. A hash identifies a file; it does not prove its claims correct.
+
+## What a result means
+
+We separate four kinds of evidence:
+
+1. **A contradiction:** the known letters cannot satisfy a specified rule.
+2. **A finite exhaustive test:** all declared settings were checked, with the
+   boundary stated explicitly.
+3. **A feasible construction:** a setting fits the known letters, possibly with
+   many arbitrary choices still free.
+4. **A language-search result:** a heuristic finds a text that scores well.
+
+Only the first two can support a scoped exclusion. The latter two need further
+evidence. A timeout means UNKNOWN. A search that recovers generated examples
+demonstrates some capability, but does not prove it covers all possible keys.
+
+Our usual checks include published known-answer examples, generated 97-letter
+messages containing the same public clues, independent implementations, exact
+re-encryption and comparisons with shuffled or random controls where a language
+score is used. Validation varies by experiment; the detailed notes give the
+actual coverage rather than a blanket “verified” label.
+
+## Working archive index
+
+| ID | Topic | Principal notes or records in the working archive |
+| :--- | :--- | :--- |
+| E01 | Input, simple invariants and early tests | `data/k4.json`; `RESEARCH.md` |
+| E02 | Periodic keywords and free alphabet completions | `experiments/periodic_keyword_models.md`; `results/free_key_completion_enumeration.json` |
+| E03 | Quagmire feasibility and recovery limits | `experiments/quagmire_free_periods.md`; `RESEARCH.md` |
+| E04 | Routes, counting and K3-derived operations | `BLUE_SKY.md`; `RESEARCH.md` |
+| E05 | Compass reading orders | `experiments/bearing_routes.md`; `results/exact_compass_weak_fit.json` |
+| E06 | Nicodemus | `experiments/nicodemus.md`; `results/nicodemus_hall.json`; `results/nicodemus_subset.json`; `results/nicodemus_actual.json` |
+| E07 | Turning grilles | `experiments/turning_grille.md`; `results/grille_periodic_recount.json`; `results/grille_quarter_shuffle.json`; `results/grille_dictionary.json`; `results/grille_orbit_solver.json`; `results/grille_orbit_peer_audit.json`; `results/grille_keyword_phases.json`; `results/grille_phase_geometry.json`; `results/grille_phase_peer_audit.json` |
+| E08 | Single rotors and ring layouts | `experiments/clock_rotor_exact.md`; `experiments/clock_rings.md` |
+| E09 | Coupled wheels and free alphabets | `experiments/clock_continuous_pair.md`; `experiments/clock_full97_exact.md`; `experiments/clock_two_alphabets.md` |
+| E10 | Feedback, row resets and controls | `experiments/feedback_rotor.md`; `experiments/feedback_rotor_rows.md`; `experiments/feedback_rotor_prestep.md`; `experiments/clock_feedback_model_competition.md`; `experiments/clock_column_reset.md` |
+| E11 | Sector lookup tables and ciphertext overlays | `experiments/clock_label_table.md`; `experiments/ciphertext_overlay.md` |
+| E12 | Unknown spaces | `experiments/clock_omitted_spaces.md` |
+| E13 | Trigger disks and resets | `experiments/trigger_disk_dictionary.md`; `experiments/trigger_reset.md`; `experiments/plaintext_trigger_reset.md` |
+| E14 | Changing alphabets | `experiments/chaocipher_keyword_left.md`; `RESEARCH.md` |
+| E15 | Word counters and common restarts | `experiments/ragbaby_obstruction.md`; `results/common_word_reset_obstruction.json` |
+| E16 | Other direct hand mechanisms | `experiments/slidefair.md`; `experiments/condi.md`; `experiments/wheatstone.md`; `experiments/portax_obstruction.md` |
+| E17 | Gromark | `k4/bluesky/README.md`; `results/gromark_dictionary.json` |
+| E18 | Fractionation and Morse | `BLUE_SKY.md`; `RESEARCH.md`; `k4/cube_check/README.md` |
+| E19 | Carter lecture running keys | `experiments/carter_lecture.md` |
+| E20 | Keyword alphabet constructions | `experiments/column_keywords.md`; `experiments/clock_city_panel_alphabets.md` |
+| E21 | Historical World Clock evidence | `experiments/clock_historical_sources.md`; `HUMAN_CLUES.md` |
+| E22 | Archive photographs and human interpretations | `experiments/archive_photo_review.md`; `HUMAN_CLUES.md` |
+
+Some older running-status paragraphs in the working notebooks are historical
+entries. The latest completed result takes precedence over an earlier plan.
+This summary does not infer that a job is alive from an old assignment.
+
+## Sources worth starting with
+
+| Source | What it contributes | Caution |
+| :--- | :--- | :--- |
+| [CIA: Kryptos sculpture](https://www.cia.gov/legacy/headquarters/kryptos-sculpture/) | Official background, physical features and transcription | Historical status language is not a live global solve registry |
+| [Richard Bean's research](https://kryptos.richardbean.id.au/) and [2021 paper](https://ecp.ep.liu.se/index.php/histocrypt/article/download/153/109) | Prior cryptanalysis, public clues and methods to compare against | Reproducing earlier work is validation, not a new discovery |
+| [Scientific American clue report](https://www.scientificamerican.com/article/cia-kryptos-puzzle-creator-releases-final-clues/) | Reporting on the World Clock and later contextual clues | Its linked original letter was inaccessible in our checks; keep reporting distinct from primary text |
+| [Sanborn interview, Wired](https://www.wired.com/2005/01/questions-for-kryptos-creator/) | The artist's account of his process | Visual/manual language does not specify an algorithm |
+| [Scheidt interview, Wired](https://www.wired.com/2005/01/inside-info-on-kryptos-codes/) | Cryptographic context and masking discussion | Do not assume a particular extra layer from the word “masking” |
+| [Smithsonian oral history](https://www.aaa.si.edu/collections/interviews/oral-history-interview-jim-sanborn-15700) | First-person historical context | References to already solved sections cannot silently become K4 instructions |
+| [Kunsch clock mechanism](https://kunsch-metallbau.de/referenzen-/weltzeituhr-berlin-alexanderplatz/) | Mechanical background for the Alexanderplatz clock | Physical rates do not themselves define letter operations |
+| [Kinemathek photograph, 3 October 1990](https://wwsf.deutsche-kinemathek.de/index.php/Detail/Object/Show/object_id/1612/lang/en_US) | Dated evidence for actual clock lettering | Partial view; not a complete 1989 roster |
+| [ACA cipher descriptions](https://www.cryptogram.org/resource-area/cipher-types/) | Explicit hand-cipher definitions and known-answer examples | A historical mechanism's existence is not evidence Sanborn selected it |
+| [RR Auction's archival-discovery account](https://content.rrauction.com/kryptos-k4-discovered-not-solved-heres-what-actually-happened/) | Distinguishes recovering text from deriving the cryptographic method | The auction house was an interested participant in the sale |
+
+## Reproducing a particular claim
+
+Use the evidence ID to locate the detailed experiment note in the working
+archive. Check its definition, input hashes, search boundary and validation
+records before running its documented command. Compare saved output with the
+manifest for this snapshot. Do not assume the summary repo alone contains the
+inputs needed to repeat a multi-million-setting search.
+
+The long-term target is a compact reproducible package for the decisive result:
+the input, key, explicit algorithm, all 97 recovered letters, exact re-encryption
+and an independent verifier. That package does not exist yet because the
+objective has not been achieved.

@@ -1,0 +1,288 @@
+{
+  "snapshot_date": "2026-10-11",
+  "timezone": "Australia/Perth",
+  "archive_location": "Sibling ../kryptos directory; files are not bundled here",
+  "purpose": "Identify selected archive notes/results; hashes are not independent validation",
+  "files": [
+    {
+      "path": "BLUE_SKY.md",
+      "bytes": 17593,
+      "sha256": "5c8bd9129fbe8153a60e8665e4151362d6273d7d081aee1467f0ff3d682219a2"
+    },
+    {
+      "path": "HUMAN_CLUES.md",
+      "bytes": 16352,
+      "sha256": "624674854c4f08091512b260f8db73c80f61f10cbf11944ce6e4dc4df2cb0931"
+    },
+    {
+      "path": "RESEARCH.md",
+      "bytes": 233144,
+      "sha256": "ee0eeb67d411f82e81cb67a277713001c20b3add64d37350bc772db42bc447e7"
+    },
+    {
+      "path": "data/k4.json",
+      "bytes": 1079,
+      "sha256": "319c088a3bb31102b00af034a44e097c53c146e52e6542ea4aa7a59498148fcc"
+    },
+    {
+      "path": "experiments/archive_photo_review.md",
+      "bytes": 4614,
+      "sha256": "e0f7dbeb1e3ad9c8337d36a11c616c7ebff0700b568929a3f0db3c80f96c1227"
+    },
+    {
+      "path": "experiments/bearing_routes.md",
+      "bytes": 5624,
+      "sha256": "bc7b1df74d253a14482a5d0815532cc5634c4a543d3754c6291d6eae88e78b96"
+    },
+    {
+      "path": "experiments/carter_lecture.md",
+      "bytes": 3987,
+      "sha256": "d914eb992ecfcf445d2669df36c8daf7e6e276613928232204dd090b1145fb0b"
+    },
+    {
+      "path": "experiments/chaocipher_keyword_left.md",
+      "bytes": 6842,
+      "sha256": "f73e926faf6624759f3b425aa5ee71bf22a2aafb45beba917204407d883e8ef0"
+    },
+    {
+      "path": "experiments/ciphertext_overlay.md",
+      "bytes": 3966,
+      "sha256": "f6779284974c89f835829bc55bc91dbbc39846735e66d70256ed171c70c60b65"
+    },
+    {
+      "path": "experiments/clock_city_panel_alphabets.md",
+      "bytes": 4150,
+      "sha256": "18d52dd00fec4e784b8e2325536328757da0a5ca46e7a03437ad2b3e47ec6063"
+    },
+    {
+      "path": "experiments/clock_column_reset.md",
+      "bytes": 2435,
+      "sha256": "8c370d3f1eee644aca2b60fad34ab77fbbcc73e8a64522eb9f31781652a0d905"
+    },
+    {
+      "path": "experiments/clock_continuous_pair.md",
+      "bytes": 7194,
+      "sha256": "5537d569b5fff9c9a71708cd47e29accc3332391e5f2d88de924f239d757c2d2"
+    },
+    {
+      "path": "experiments/clock_feedback_model_competition.md",
+      "bytes": 6767,
+      "sha256": "c2f2daef0f0af4164ce0a5489d1de51d12f49970ffdbf02b77ecb9f0da5b38d4"
+    },
+    {
+      "path": "experiments/clock_full97_exact.md",
+      "bytes": 2503,
+      "sha256": "987e55e7dd422eb9cc7007ee12c2aefc3eb2c8b9569b91696154363ad9c40107"
+    },
+    {
+      "path": "experiments/clock_historical_sources.md",
+      "bytes": 8529,
+      "sha256": "bd6d4e531de79e30600c0412f8fbf74a426256c93f717c9ee7327896e32ea863"
+    },
+    {
+      "path": "experiments/clock_label_table.md",
+      "bytes": 7577,
+      "sha256": "5fe779cef2e8d28039b17cd6627c5463c8f564b511bd9818448d54d204049635"
+    },
+    {
+      "path": "experiments/clock_omitted_spaces.md",
+      "bytes": 3198,
+      "sha256": "f5e3cc7c13ed325883b48666df02bc1b26ec5773fc4221559f3e6a43fe18ed62"
+    },
+    {
+      "path": "experiments/clock_rings.md",
+      "bytes": 1791,
+      "sha256": "f6a201248d4fa363dc1bc980361a317c026a96f824ef48051b1cbde2c9c3ea22"
+    },
+    {
+      "path": "experiments/clock_rotor_exact.md",
+      "bytes": 3520,
+      "sha256": "c3ee89b443818aa63d31a9a9d9c31306306f840537c85579925b739a32771d72"
+    },
+    {
+      "path": "experiments/clock_two_alphabets.md",
+      "bytes": 4327,
+      "sha256": "ef66649204f9ae57903e9524cc5c5a63cfdaf008825489d802570229baf09eab"
+    },
+    {
+      "path": "experiments/column_keywords.md",
+      "bytes": 4678,
+      "sha256": "06c3d760cba699270028e10a29e17783a2685cee857cd1edf21ae7bb39bd5463"
+    },
+    {
+      "path": "experiments/condi.md",
+      "bytes": 2533,
+      "sha256": "a46cd15dd84bfd50ae3d56f94b280cb152bf5b8b49628d4298dbedca840b23df"
+    },
+    {
+      "path": "experiments/feedback_rotor.md",
+      "bytes": 2101,
+      "sha256": "e17f23ba2823d9b0f57c9f43f5e0d455e2330f266c01618b416a593f0b49d464"
+    },
+    {
+      "path": "experiments/feedback_rotor_prestep.md",
+      "bytes": 3088,
+      "sha256": "649bb74ed56c30b2f51586fee829ed68ae37ebda3000ba480f2f796bd16317f9"
+    },
+    {
+      "path": "experiments/feedback_rotor_rows.md",
+      "bytes": 2077,
+      "sha256": "a535cea3add0cec3fd26f9b9fb6e0f97be4222e36d56f36c421f73d61b85f6ec"
+    },
+    {
+      "path": "experiments/grille_keyword_phases.py",
+      "bytes": 4252,
+      "sha256": "3bcfbce71f683524aea0eaacc17c64843292c1b728b4c812979a9fc6dc1228b3"
+    },
+    {
+      "path": "experiments/grille_phase_geometry.py",
+      "bytes": 1944,
+      "sha256": "8ae788599628d992d610872e82c48b884a70812b69d9fa7bf6780c0bf0363733"
+    },
+    {
+      "path": "experiments/grille_phase_peer_audit.py",
+      "bytes": 3762,
+      "sha256": "56764820ca2b781b60b2d08c16d786015d85034a45b9ca16c922914fd0a84fcf"
+    },
+    {
+      "path": "experiments/nicodemus.md",
+      "bytes": 3757,
+      "sha256": "f2df61fd5042357a2d5bb1d3d118c71b11198f1e262317e203e71952bb73c6d7"
+    },
+    {
+      "path": "experiments/periodic_keyword_models.md",
+      "bytes": 5798,
+      "sha256": "9beb39879792bbc82a46f774d16d4b874ca714ab8d8b335037c8de5668f25672"
+    },
+    {
+      "path": "experiments/plaintext_trigger_reset.md",
+      "bytes": 2777,
+      "sha256": "af41717107075462f5d165384b485629f7cdfd54ac83414369559703748e67ab"
+    },
+    {
+      "path": "experiments/portax_obstruction.md",
+      "bytes": 1617,
+      "sha256": "75163b2731a42789883d34bcd1a6e0bc6d5926bc33bda387f6fc4bb63b8aa7a9"
+    },
+    {
+      "path": "experiments/quagmire_free_periods.md",
+      "bytes": 1899,
+      "sha256": "7aa67f6bb872308a3cd59f0f399e93ebd4826574125bd08a6759574e2226a8a7"
+    },
+    {
+      "path": "experiments/ragbaby_obstruction.md",
+      "bytes": 7833,
+      "sha256": "4f2d5883a1a6f90043b1df3448167fd45e2ccdfb8f73c9b96675576ec41e7a33"
+    },
+    {
+      "path": "experiments/slidefair.md",
+      "bytes": 3667,
+      "sha256": "09b387ed2df20cbf05077fee0a6dfdcc8c9a9c3f5cc4702b1608730d2f9c3388"
+    },
+    {
+      "path": "experiments/trigger_disk_dictionary.md",
+      "bytes": 2504,
+      "sha256": "edf0c994cf0c0778e73b6d3642276edf41499d7fc1a0a6a92558a890356d74a2"
+    },
+    {
+      "path": "experiments/trigger_reset.md",
+      "bytes": 3778,
+      "sha256": "5f9d0be09ae8ca5b5996505811d85c32a92258ead64cdc3b9d5f31a48d089f57"
+    },
+    {
+      "path": "experiments/turning_grille.md",
+      "bytes": 7523,
+      "sha256": "3dab5ab60ce596824e299a50ad0eb5fd212b07dbebc2e9c20b02e8783bd69ead"
+    },
+    {
+      "path": "experiments/wheatstone.md",
+      "bytes": 3147,
+      "sha256": "1981fcd0fe958669e50b3470cab74f5ac9a9189c1ac8b22d8b7907b1ebc40986"
+    },
+    {
+      "path": "k4/bluesky/README.md",
+      "bytes": 3471,
+      "sha256": "e8c74c291f35ea60f29fd02982bf15d64cb294a277aebcb988b38750b06c1314"
+    },
+    {
+      "path": "k4/cube_check/README.md",
+      "bytes": 1017,
+      "sha256": "6d2c24dd1f17b5f32f715e123bccdd9d5d0caaf51b16d3375b695d6fb68e511a"
+    },
+    {
+      "path": "results/common_word_reset_obstruction.json",
+      "bytes": 7693,
+      "sha256": "26e195c33ae43c5c97efd9ce2dc66c3b48b5c832a96449377a6756362e808fa0"
+    },
+    {
+      "path": "results/exact_compass_weak_fit.json",
+      "bytes": 12657,
+      "sha256": "f23cb3ee7044fe59476d9121b8eb69549a154d8b3786c966b0c95338c7846907"
+    },
+    {
+      "path": "results/free_key_completion_enumeration.json",
+      "bytes": 323836,
+      "sha256": "0b01c5e30aad3785dd1e7068c7c5fe9cf8847d9e49ebcb975e958e762acf7d40"
+    },
+    {
+      "path": "results/grille_dictionary.json",
+      "bytes": 187493,
+      "sha256": "237235c40eb2501d6be503c21545ee409eda357f87c7961c57a6f015f804b705"
+    },
+    {
+      "path": "results/grille_keyword_phases.json",
+      "bytes": 6160402,
+      "sha256": "a305a3c233902bf2cd4ea6862d81b62c88c859c621fd35d9e17079671e7837f0"
+    },
+    {
+      "path": "results/grille_orbit_peer_audit.json",
+      "bytes": 251,
+      "sha256": "834f21ad6f3a60af82d42e92d023b0f7c1260159fb7ef58e7dd14cb2045e27e9"
+    },
+    {
+      "path": "results/grille_orbit_solver.json",
+      "bytes": 7189,
+      "sha256": "95529dea89984b7f59279d405f5f610aa7e245654783b291acf74d01503a4f1f"
+    },
+    {
+      "path": "results/grille_periodic_recount.json",
+      "bytes": 6785,
+      "sha256": "4068c8a86fe31a9d0f7c12259e637ba5fcfe5f652aa0eb1217b6bb4c7f45a628"
+    },
+    {
+      "path": "results/grille_phase_geometry.json",
+      "bytes": 4705,
+      "sha256": "2a2d12b6ab810fdfa7af79e5c8810b3355883e406e9346e9c0fe4a44cd6b37d3"
+    },
+    {
+      "path": "results/grille_phase_peer_audit.json",
+      "bytes": 2128,
+      "sha256": "38ca817066f34cf2c2495a5746c5efe9479739844c6b4ab2667a8c9bffb818b0"
+    },
+    {
+      "path": "results/grille_quarter_shuffle.json",
+      "bytes": 13868,
+      "sha256": "f9648eb72c5cb39eb45a65664ec90a45a6c7e751368994edcc7285e843c103e7"
+    },
+    {
+      "path": "results/gromark_dictionary.json",
+      "bytes": 72482,
+      "sha256": "7b1c07ef77f830d95292e567c807acf631eeed09dda298b2c7f77c14a2579c90"
+    },
+    {
+      "path": "results/nicodemus_actual.json",
+      "bytes": 1272,
+      "sha256": "558397def9176865671a5026cf58ed5b565d5df9230004d8834421ccf6d53463"
+    },
+    {
+      "path": "results/nicodemus_hall.json",
+      "bytes": 328258,
+      "sha256": "2b2f0fb1b95eeb50761d844c5e50128c36f49806164060296261467c6de262c9"
+    },
+    {
+      "path": "results/nicodemus_subset.json",
+      "bytes": 3319,
+      "sha256": "8ad3a7cb32caaad9c99f7ce00d1ca72b3d9f61993fe2dd7be32489615dbdd1cb"
+    }
+  ]
+}
