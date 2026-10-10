@@ -16,8 +16,8 @@
     },
     {
       "path": "RESEARCH.md",
-      "bytes": 251238,
-      "sha256": "20262e0123b2ae1e50d9ce01dcbbeeab98ff9455d382936068b13e185ccc7803"
+      "bytes": 251690,
+      "sha256": "8965587704cfc42a53e73edcd234a8e30159a58cdf40d34c4ac05c09721e7d0f"
     },
     {
       "path": "STATUS.md",
@@ -341,8 +341,8 @@
     },
     {
       "path": "experiments/quagmire_plaintext_beam.md",
-      "bytes": 6244,
-      "sha256": "c30cfa8791183e710966833211496fc50635a9d6a1e373c3ee61398baacd2512"
+      "bytes": 6554,
+      "sha256": "4ed1941277bd61166f8f16f01e5cc8e94b8b3dcdaa4bf39670a0e6695bc89fc2"
     },
     {
       "path": "experiments/quagmire_plaintext_beam_plan.md",
@@ -538,6 +538,21 @@
       "path": "k4/quagmire_beam_ref/beam_ref.py",
       "bytes": 9825,
       "sha256": "1fc4858bda87cabb8f84b6bd68175bfdaed93f04f6504f60f0af3b540f3b9f62"
+    },
+    {
+      "path": "k4/quagmire_beam_ref/compare_go_filter.py",
+      "bytes": 3298,
+      "sha256": "1926c860f1da82fcf88fc0f027509b500b1d1c56979d493a61c65f311b99de5d"
+    },
+    {
+      "path": "k4/quagmire_beam_ref/compare_my_cases.json",
+      "bytes": 190,
+      "sha256": "9db5c7514ffb295e6a8b45303c04c5baff2177c0e3285482b405cddd230f9129"
+    },
+    {
+      "path": "k4/quagmire_beam_ref/compare_root_cases.json",
+      "bytes": 198,
+      "sha256": "9c7693fb138e24e09f566fc75de749c5542d3dfe2c53c93b9af74fefd3ebb32f"
     },
     {
       "path": "k4/sanborn_letter_2025_11_12/README.md",
