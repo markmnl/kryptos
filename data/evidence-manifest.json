@@ -16,8 +16,13 @@
     },
     {
       "path": "RESEARCH.md",
-      "bytes": 243378,
-      "sha256": "63ce9949d99392a8b43b8c88f83a205a4cad15e37f7d7a3661b6713062a15f5f"
+      "bytes": 245416,
+      "sha256": "a5369aeb2b56c6b2df44a8ed1ccedba61e1c789883b1ba92056996381c66f596"
+    },
+    {
+      "path": "data/carter_reply_source/manifest.json",
+      "bytes": 229,
+      "sha256": "1adb26372e49f5e6002262a9d12099f98026df592adab80882f3e6c55f331540"
     },
     {
       "path": "data/cia_panels/manifest.json",
@@ -71,8 +76,13 @@
     },
     {
       "path": "experiments/carter_conditional.md",
-      "bytes": 2454,
-      "sha256": "bf3e7b08da2bbfc3cbd0b7e97413bc0ee224321fdf1b3114475dc12ec00976f9"
+      "bytes": 5467,
+      "sha256": "6245a766e4359d0e4a61c44d73c857a1d71a2cfb3eae0853d51cffec6d68c633"
+    },
+    {
+      "path": "experiments/carter_discrimination_audit.py",
+      "bytes": 5093,
+      "sha256": "5975591f74bbec3560e291994fcb1818ef5fac25858711de5c74042c99280bdf"
     },
     {
       "path": "experiments/carter_lecture.md",
@@ -315,6 +325,26 @@
       "sha256": "0c3d6da9af968464227db07f4132a199e541dc6642c7dfc4674eac65fb9694e0"
     },
     {
+      "path": "k4/error_audit/quagmire_nullspace_check.json",
+      "bytes": 3997,
+      "sha256": "4c1b068a702090dadedd282cfd6022fd8556297bb6363da09c8f0560c46d6368"
+    },
+    {
+      "path": "k4/error_audit/quagmire_nullspace_check.py",
+      "bytes": 8276,
+      "sha256": "005543e306a8ea696476cb4be22457fc210660d94b164d8599ca9d3b83d98ee3"
+    },
+    {
+      "path": "k4/error_audit/verify_carter_witnesses.json",
+      "bytes": 1290,
+      "sha256": "0c527eddaa71ebf5a4b3257b774537e3fb749cb554c132ffcae0b6ab8f0fde2f"
+    },
+    {
+      "path": "k4/error_audit/verify_carter_witnesses.py",
+      "bytes": 4489,
+      "sha256": "76b95d6c36ca3844c51099d53f4751d5698c448186e53f5fc4cfb872f2d54416"
+    },
+    {
       "path": "k4/error_audit/verify_word_reset_completions.json",
       "bytes": 311,
       "sha256": "1c51d9af8b50ee4f91f0fd72eacc02b7df3dac4c7fb16d7f9ee217a3a4120ad5"
@@ -326,8 +356,8 @@
     },
     {
       "path": "k4/fable/README.md",
-      "bytes": 1592,
-      "sha256": "bd7fcb8052896318f311552db58e0a28e5b352a70c41519e41d39cadfc1ce294"
+      "bytes": 3037,
+      "sha256": "a9f4f71f362d7262c193d66fcfe912fe8a5df63ba1178132d0c5e0fe55135d11"
     },
     {
       "path": "k4/fable/b2/frozen.json",
@@ -383,6 +413,21 @@
       "path": "results/amsco_peer_audit.json",
       "bytes": 2886,
       "sha256": "98115ec39aea9c89de87b445dde4b62fbe9ef17b7a2c240c77a2837d773edac0"
+    },
+    {
+      "path": "results/carter_discrimination_audit.json",
+      "bytes": 18139,
+      "sha256": "98d78b950d66e6ada2f289db4b2c3408fca514fb9fa17a3ce62e98f228a2a1a6"
+    },
+    {
+      "path": "results/carter_v5_control_audit.json",
+      "bytes": 3397,
+      "sha256": "322ef0ad579ab32a7776f8c0fac72f637990a0c00c7e6097d80b3bb25fbfe7e1"
+    },
+    {
+      "path": "results/carter_variant_witness_audit.json",
+      "bytes": 4986,
+      "sha256": "9daf16402bd8e8fa8b6a1f2aeedabb3448bbd42e573a9cdc2f28bd3a980555dc"
     },
     {
       "path": "results/columnar_one_error_audit.json",

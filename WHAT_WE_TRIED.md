@@ -91,7 +91,7 @@ below do not alter that input.
 | Archive photographs | Six public images show compass sketches, cipher vocabulary and layered materials | No new hard plaintext clue, calibrated angle or executable K4 rule | E22 |
 | Egypt, Berlin and message delivery | These support historical, autobiographical and physical interpretations worth investigating | An itinerary, sentence or numerical key that can be imposed as fact | E22 |
 | Copper-panel anomalies | Raised Y/A/R occur in K3's ciphertext; CIA graphics preserve ragged rows and an extra tableau L | The extra L has not been confirmed in a clear photograph; no decoding operation follows | E26 |
-| Carter's reply as a proposed opening | Six variants and matching English controls frozen; preliminary fits use arbitrary alphabets | The control comparison and independent audit remain in progress; these are not additional hard cribs | E27 |
+| Carter's reply as a proposed opening | All six variants fit a free-alphabet periodic model, but each has at least two English controls fitting at its minimum period; all 18 witnesses independently verified | The declared rarity criterion fails; this does not disprove the story or establish full control frequencies | E27 |
 
 The large numbers describe work performed, not the probability that we are
 close to solving K4. The useful progress is the smaller set of precise

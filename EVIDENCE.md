@@ -61,7 +61,7 @@ actual coverage rather than a blanket “verified” label.
 | E24 | Original clue letter and current archive sources | `experiments/sanborn_letter_review.md`; `k4/sanborn_letter_2025_11_12/`; `experiments/paradigm_source_review.md`; `data/paradigm_archive/manifest.json` |
 | E25 | Sensitivity to hypothetical ciphertext substitutions | `experiments/error_budget_review.md`; `results/columnar_one_error_audit.json`; `results/structural_error_bounds.json`; `results/transposition_error_recount.json`; `results/word_reset_one_error/results.json`; `k4/error_audit/`; `k4/fable/` |
 | E26 | Physical panel versus published representation | `experiments/cia_panel_layout.md`; `experiments/cia_panel_transcription.py`; `data/cia_panels/manifest.json`; `k4/panel_sources/README.md` |
-| E27 | Conditional Carter openings and English controls | `experiments/carter_conditional.md`; `experiments/quagmire_linear_filter.py`; `results/quagmire_linear_filter.json`; `k4/fable/b2/frozen.json` |
+| E27 | Conditional Carter openings and English controls | `experiments/carter_conditional.md`; `experiments/carter_discrimination_audit.py`; `results/carter_discrimination_audit.json`; `experiments/quagmire_linear_filter.py`; `results/quagmire_linear_filter.json`; `k4/error_audit/verify_carter_witnesses.py`; `k4/fable/b2/frozen.json` |
 
 Some older running-status paragraphs in the working notebooks are historical
 entries. The latest completed result takes precedence over an earlier plan.
