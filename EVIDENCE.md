@@ -63,6 +63,7 @@ actual coverage rather than a blanket “verified” label.
 | E26 | Physical panel versus published representation | `experiments/cia_panel_layout.md`; `experiments/cia_panel_transcription.py`; `data/cia_panels/manifest.json`; `k4/panel_sources/README.md` |
 | E27 | Conditional Carter openings and English controls | `experiments/carter_conditional.md`; `experiments/carter_discrimination_audit.py`; `results/carter_discrimination_audit.json`; `experiments/quagmire_linear_filter.py`; `results/quagmire_linear_filter.json`; `k4/error_audit/verify_carter_witnesses.py`; `k4/fable/b2/frozen.json` |
 | E28 | Forced-letter projection and periodic repetition controls | `experiments/quagmire_projection_controls.md`; `experiments/quagmire_projection_controls_plan.md`; `results/quagmire_projection_controls.json`; `results/quagmire_projection_audit.json`; `results/periodic_coincidence_audit.json`; `results/periodic_coincidence_peer_audit.json`; `k4/quagmire_beam_ref/projection_audit.json` |
+| E29 | Published-row edge keys and fixed substitution per row | `experiments/panel_edge_keys.md`; `experiments/panel_edge_key_audit.py`; `results/panel_edge_key_audit.json`; `k4/fable/b6/edge_keys.py`; `k4/rowwise_mono/README.md`; `k4/rowwise_mono/rowwise_mono.json` |
 
 Some older running-status paragraphs in the working notebooks are historical
 entries. The latest completed result takes precedence over an earlier plan.
@@ -80,6 +81,7 @@ This summary does not infer that a job is alive from an old assignment.
 | [Sanborn interview, Wired](https://www.wired.com/2005/01/questions-for-kryptos-creator/) | The artist's account of his process | Visual/manual language does not specify an algorithm |
 | [Scheidt interview, Wired](https://www.wired.com/2005/01/inside-info-on-kryptos-codes/) | Cryptographic context and masking discussion | Do not assume a particular extra layer from the word “masking” |
 | [Smithsonian oral history](https://www.aaa.si.edu/collections/interviews/oral-history-interview-jim-sanborn-15700) | First-person historical context | References to already solved sections cannot silently become K4 instructions |
+| [PBS NOVA transcript, July 2007](https://www.pbs.org/wgbh/nova/transcripts/3411_sciencen.html) | Identifies speakers and links the graph-paper demonstration to K3 | Vowel removal and phonetic spelling are the correspondent's examples, not Sanborn naming K4's method |
 | [Kunsch clock mechanism](https://kunsch-metallbau.de/referenzen-/weltzeituhr-berlin-alexanderplatz/) | Mechanical background for the Alexanderplatz clock | Physical rates do not themselves define letter operations |
 | [Kinemathek photograph, 3 October 1990](https://wwsf.deutsche-kinemathek.de/index.php/Detail/Object/Show/object_id/1612/lang/en_US) | Dated evidence for actual clock lettering | Partial view; not a complete 1989 roster |
 | [ACA cipher descriptions](https://www.cryptogram.org/resource-area/cipher-types/) | Explicit hand-cipher definitions and known-answer examples | A historical mechanism's existence is not evidence Sanborn selected it |

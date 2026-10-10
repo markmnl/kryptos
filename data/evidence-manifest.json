@@ -11,18 +11,18 @@
     },
     {
       "path": "HUMAN_CLUES.md",
-      "bytes": 17318,
-      "sha256": "7217c54048cea3ce28b0c65f6b7313e6dd7804619fc84e503c02a47a9f8f7f68"
+      "bytes": 18484,
+      "sha256": "10234e9cf58ad19c5fe90b0994a421969c993ce1418e880a01ee670fc3ffe2f2"
     },
     {
       "path": "RESEARCH.md",
-      "bytes": 256408,
-      "sha256": "7592b2107d6359ec98ccbb2a317b6f0fd5bf3b62ec094a4ce1838a7a436a6a4a"
+      "bytes": 258144,
+      "sha256": "d84c8c25c5eb67413d2bc76ac4950c42d3d9c2514458fed8df82f95cdb0eee37"
     },
     {
       "path": "STATUS.md",
-      "bytes": 14987,
-      "sha256": "9110df87413ebf6f287e9778f1bfe5a614b099d590323bffd2eb74dcf42cae49"
+      "bytes": 15339,
+      "sha256": "8383251ff02e254021a678363d82d7616cdff8c228f28777f05c9e83fc472aaf"
     },
     {
       "path": "data/carter_reply_source/manifest.json",
@@ -91,8 +91,8 @@
     },
     {
       "path": "experiments/archive_photo_review.md",
-      "bytes": 4614,
-      "sha256": "e0f7dbeb1e3ad9c8337d36a11c616c7ebff0700b568929a3f0db3c80f96c1227"
+      "bytes": 5525,
+      "sha256": "7916833406de8f67752e7921c59f5d9fcb022d58ef0f99990381362ed5279478"
     },
     {
       "path": "experiments/bearing_routes.md",
@@ -258,6 +258,16 @@
       "path": "experiments/null_padding_source_review.md",
       "bytes": 1764,
       "sha256": "7649b957af17262cbaf0a549195bc6b03adc402a1a2c828c8cc5e259f72c8a6c"
+    },
+    {
+      "path": "experiments/panel_edge_key_audit.py",
+      "bytes": 4406,
+      "sha256": "6b235810d875f02ad580bab764d6697a2ccb9a2f7830c3101c894a5e310eea49"
+    },
+    {
+      "path": "experiments/panel_edge_keys.md",
+      "bytes": 4257,
+      "sha256": "70f732aa65f771a6a54156472f8c897770f1d3fa8e748115a44710518bb4200f"
     },
     {
       "path": "experiments/paradigm_source_review.md",
@@ -585,6 +595,16 @@
       "sha256": "3ca3be28a1e3a5cc417e1ae2536f480478ee1b2ad184e09d8cf97fe5f2bc8bb1"
     },
     {
+      "path": "k4/fable/b6/edge_keys.log",
+      "bytes": 382,
+      "sha256": "d88aa577c2d42ac581f5a81baea1469a8c044acc4a4085b2848472da5a557f86"
+    },
+    {
+      "path": "k4/fable/b6/edge_keys.py",
+      "bytes": 2647,
+      "sha256": "4ce71d6fbfe57391070f69fe30e2401a42e4e7e915209d659c0fcd48b9e9686c"
+    },
+    {
       "path": "k4/fable/pure_trans_budget.c",
       "bytes": 6493,
       "sha256": "bda1f2f91ad3f0fbba9d9eb434a3155d08f64dc0505037f34961d13706524b5a"
@@ -683,6 +703,41 @@
       "path": "k4/quagmire_beam_ref/sparse_results_check.py",
       "bytes": 2224,
       "sha256": "fb7ccf196c9a71779c649d107239212e7995c623b04217ecee1f9b7a652901f3"
+    },
+    {
+      "path": "k4/rowwise_mono/README.md",
+      "bytes": 2894,
+      "sha256": "88e987e7001bef3c34f8561815e44ff1c3cbf9d47595da3ac6a725fcac80a9cf"
+    },
+    {
+      "path": "k4/rowwise_mono/SHA256SUMS",
+      "bytes": 509,
+      "sha256": "137c343e7bbaec57e51f22e15268e66b9d55e67327d2514dcba755f668c9a17c"
+    },
+    {
+      "path": "k4/rowwise_mono/compass_measure.json",
+      "bytes": 1755,
+      "sha256": "839809decd15b65496a0b29152798525df76278c03f82c7bcd068a8d16639079"
+    },
+    {
+      "path": "k4/rowwise_mono/highsmith_K4_rows_mirrored.png",
+      "bytes": 849388,
+      "sha256": "4b9345d17515bc2adfc5839f94cbf5126d9aff66cccd3d4ecc3eacd840cbbb4c"
+    },
+    {
+      "path": "k4/rowwise_mono/rowwise_mono.json",
+      "bytes": 1735,
+      "sha256": "b98ead5cfe3622ec5d2ba9c6efeb5fe0a0b3748c40f09cf6f329922feefffb24"
+    },
+    {
+      "path": "k4/rowwise_mono/rowwise_mono.log",
+      "bytes": 1736,
+      "sha256": "de469fd333e05d6b7236c832f4d21658d44bd8222e34c1fe5c5982e66bd2b0ce"
+    },
+    {
+      "path": "k4/rowwise_mono/rowwise_mono.py",
+      "bytes": 2989,
+      "sha256": "2d1424ec7e0724838054f019ba4b162359d5b23ffeb7122e718fa46fc2864eb0"
     },
     {
       "path": "k4/sanborn_letter_2025_11_12/README.md",
@@ -818,6 +873,11 @@
       "path": "results/nicodemus_subset.json",
       "bytes": 3319,
       "sha256": "8ad3a7cb32caaad9c99f7ce00d1ca72b3d9f61993fe2dd7be32489615dbdd1cb"
+    },
+    {
+      "path": "results/panel_edge_key_audit.json",
+      "bytes": 3342,
+      "sha256": "38ef2955a310d4eba666dccc299abe1156d54daab515b91393d4c82da299855e"
     },
     {
       "path": "results/periodic_coincidence_audit.json",
