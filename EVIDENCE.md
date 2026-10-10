@@ -37,7 +37,7 @@ actual coverage rather than a blanket “verified” label.
 | :--- | :--- | :--- |
 | E01 | Input, simple invariants and early tests | `data/k4.json`; `RESEARCH.md` |
 | E02 | Periodic keywords and free alphabet completions | `experiments/periodic_keyword_models.md`; `results/free_key_completion_enumeration.json` |
-| E03 | Quagmire feasibility and recovery limits | `experiments/quagmire_free_periods.md`; `RESEARCH.md` |
+| E03 | Quagmire feasibility and recovery limits | `experiments/quagmire_free_periods.md`; `experiments/quagmire_graph_search.md`; `results/quagmire_graph_audit.json`; `results/quagmire_graph_reproduction/manifest.json`; `experiments/quagmire_plaintext_beam_plan.md`; `RESEARCH.md` |
 | E04 | Routes, counting and K3-derived operations | `BLUE_SKY.md`; `RESEARCH.md` |
 | E05 | Compass reading orders | `experiments/bearing_routes.md`; `results/exact_compass_weak_fit.json` |
 | E06 | Nicodemus | `experiments/nicodemus.md`; `results/nicodemus_hall.json`; `results/nicodemus_subset.json`; `results/nicodemus_actual.json` |
@@ -55,8 +55,8 @@ actual coverage rather than a blanket “verified” label.
 | E18 | Fractionation and Morse | `BLUE_SKY.md`; `RESEARCH.md`; `k4/cube_check/README.md` |
 | E19 | Carter lecture running keys | `experiments/carter_lecture.md` |
 | E20 | Keyword alphabet constructions | `experiments/column_keywords.md`; `experiments/clock_city_panel_alphabets.md` |
-| E21 | Historical World Clock evidence | `experiments/clock_historical_sources.md`; `HUMAN_CLUES.md` |
-| E22 | Archive photographs and human interpretations | `experiments/archive_photo_review.md`; `HUMAN_CLUES.md` |
+| E21 | Historical World Clock evidence | `experiments/clock_historical_sources.md`; `experiments/clock_orientation_review.md`; `k4/clock_orientation/README.md`; `HUMAN_CLUES.md` |
+| E22 | Archive photographs and human interpretations | `experiments/archive_photo_review.md`; `experiments/null_padding_source_review.md`; `HUMAN_CLUES.md` |
 | E23 | Amsco with shifts attached to grid columns | `experiments/amsco.md`; `results/amsco_columns.json`; `results/amsco_geometry_audit.json`; `results/amsco_dictionary.json`; `results/amsco_peer_audit.json` |
 | E24 | Original clue letter and current archive sources | `experiments/sanborn_letter_review.md`; `k4/sanborn_letter_2025_11_12/`; `experiments/paradigm_source_review.md`; `data/paradigm_archive/manifest.json` |
 | E25 | Sensitivity to hypothetical ciphertext substitutions | `experiments/error_budget_review.md`; `results/columnar_one_error_audit.json`; `results/structural_error_bounds.json`; `results/transposition_error_recount.json`; `results/word_reset_one_error/results.json`; `k4/error_audit/`; `k4/fable/` |

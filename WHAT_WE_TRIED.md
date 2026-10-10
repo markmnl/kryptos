@@ -26,7 +26,7 @@ below do not alter that input.
 | :--- | :--- | :--- | :--- | :--- |
 | Pure rearrangement | A permutation of the 97 letters without changing them | **Excluded in scope:** the known plaintext alone needs three Es; the ciphertext contains two | Rearrangement combined with substitution | E01 |
 | Repeating shifts and keyword alphabets | Direct periodic models; finite word catalogs with one alphabet fixed and the other free; several ways of ranking key letters | **Catalog negative** in the documented models; a separate free-alphabet branch's 477,612 completions yield implausible best texts | Other alphabet/key relationships and extra layers | E02 |
-| Generalised Quagmire | Two arbitrary alphabets and short periodic keys | **Open / limited:** some periods admit crib fits; the language-search pilot did not establish reliable recovery | Longer or differently constrained keys; better validated recovery methods | E03 |
+| Generalised Quagmire | Two arbitrary alphabets and short periodic keys | **Open / limited:** crib fits remain; new searches that preserve every crib still fail unknown-key recovery on generated examples | Better validated recovery methods; a supplied-key diagnostic shows key exploration is a major difficulty | E03 |
 | Structured transposition routes | Millions of row/column, rotation, padded-grid and layered routes with periodic, Porta, interrupted-key and running-key tests | **No strong candidate:** specified screens are negative; some long-period fits remain underconstrained | Arbitrary permutations and untested compositions | E04 |
 | Dial and counting routes | Decimation, Josephus-style counting in both directions, and a 24-column dial family | **No strong candidate** in the declared catalogs | Other counting instructions or justified starting rules | E04 |
 | Compass routes | 864 integer-slope routes plus 224 exact off-axis compass projections, including the carved K4 layout | **No convincing text:** the strongest new substitution fit forces no additional plaintext beyond the cribs | Other source-motivated reading rules; approximate photo angles are not instructions | E05 |
@@ -92,6 +92,8 @@ below do not alter that input.
 | Egypt, Berlin and message delivery | These support historical, autobiographical and physical interpretations worth investigating | An itinerary, sentence or numerical key that can be imposed as fact | E22 |
 | Copper-panel anomalies | Raised Y/A/R occur in K3's ciphertext; CIA graphics preserve ragged rows and an extra tableau L | The extra L has not been confirmed in a clear photograph; no decoding operation follows | E26 |
 | Carter's reply as a proposed opening | All six variants fit a free-alphabet periodic model, but each has at least two English controls fitting at its minimum period; all 18 witnesses independently verified | The declared rarity criterion fails; this does not disprove the story or establish full control frequencies | E27 |
+| East-northeast as a clock face | Provisional models of dated photographs leave the ray near a boundary between two city panels | No unique face, surveyed bearing or city-derived key is established | E21 |
+| A shorter message with filler letters | Reviewed public accounts describe meaningful English and correctly placed clues; no positive evidence for null padding was found | This is a reason to lower its priority, not a proof excluding all filler schemes | E22 |
 
 The large numbers describe work performed, not the probability that we are
 close to solving K4. The useful progress is the smaller set of precise
