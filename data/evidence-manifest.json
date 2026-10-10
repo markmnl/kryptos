@@ -16,8 +16,18 @@
     },
     {
       "path": "RESEARCH.md",
-      "bytes": 241498,
-      "sha256": "a85fed2e9c5935ce142af9f0dd240aed74829d2ff5a7be701a5b5b6f31047c8c"
+      "bytes": 243378,
+      "sha256": "63ce9949d99392a8b43b8c88f83a205a4cad15e37f7d7a3661b6713062a15f5f"
+    },
+    {
+      "path": "data/cia_panels/manifest.json",
+      "bytes": 1735,
+      "sha256": "e9c37bba901115394e7f2520c2a824aeef5444e03a563d4f96423c81b9768f37"
+    },
+    {
+      "path": "data/cia_panels/transcription.json",
+      "bytes": 3448,
+      "sha256": "0a461e175d88167b5e73986b81b2110426e6ad51271943bf1523eab4d43f4b07"
     },
     {
       "path": "data/k4.json",
@@ -60,6 +70,11 @@
       "sha256": "bc7b1df74d253a14482a5d0815532cc5634c4a543d3754c6291d6eae88e78b96"
     },
     {
+      "path": "experiments/carter_conditional.md",
+      "bytes": 2454,
+      "sha256": "bf3e7b08da2bbfc3cbd0b7e97413bc0ee224321fdf1b3114475dc12ec00976f9"
+    },
+    {
       "path": "experiments/carter_lecture.md",
       "bytes": 3987,
       "sha256": "d914eb992ecfcf445d2669df36c8daf7e6e276613928232204dd090b1145fb0b"
@@ -68,6 +83,16 @@
       "path": "experiments/chaocipher_keyword_left.md",
       "bytes": 6842,
       "sha256": "f73e926faf6624759f3b425aa5ee71bf22a2aafb45beba917204407d883e8ef0"
+    },
+    {
+      "path": "experiments/cia_panel_layout.md",
+      "bytes": 2677,
+      "sha256": "a31103b15d39e20afdb3064569bf100d5d657570e0c0da1ac9dd219840baa9f3"
+    },
+    {
+      "path": "experiments/cia_panel_transcription.py",
+      "bytes": 2411,
+      "sha256": "34449437a05a237d4d3fcecbe0dc51d3cb4439fe6233e5ed1cb9f81262107b44"
     },
     {
       "path": "experiments/ciphertext_overlay.md",
@@ -146,8 +171,8 @@
     },
     {
       "path": "experiments/error_budget_review.md",
-      "bytes": 8251,
-      "sha256": "ee644033695089db8c05b7e7af5211bf3a71be77ab0f08caf337857c7c99e689"
+      "bytes": 8494,
+      "sha256": "8a659a7d160fcdd738b7d79c07d1c234261153f34fb55b7e156b9db30a9bdc3c"
     },
     {
       "path": "experiments/feedback_rotor.md",
@@ -213,6 +238,11 @@
       "path": "experiments/quagmire_free_periods.md",
       "bytes": 1899,
       "sha256": "7aa67f6bb872308a3cd59f0f399e93ebd4826574125bd08a6759574e2226a8a7"
+    },
+    {
+      "path": "experiments/quagmire_linear_filter.py",
+      "bytes": 4540,
+      "sha256": "a7458182d4f415d487a4af59d0629ecb14b7bca12ed8dd2bbd8bb2b0a5b4ce6c"
     },
     {
       "path": "experiments/ragbaby_obstruction.md",
@@ -285,14 +315,39 @@
       "sha256": "0c3d6da9af968464227db07f4132a199e541dc6642c7dfc4674eac65fb9694e0"
     },
     {
+      "path": "k4/error_audit/verify_word_reset_completions.json",
+      "bytes": 311,
+      "sha256": "1c51d9af8b50ee4f91f0fd72eacc02b7df3dac4c7fb16d7f9ee217a3a4120ad5"
+    },
+    {
+      "path": "k4/error_audit/verify_word_reset_completions.py",
+      "bytes": 5277,
+      "sha256": "1db481814d29aa45e04b171c5205db121777d2b4fd40107282799c46b05b2001"
+    },
+    {
       "path": "k4/fable/README.md",
       "bytes": 1592,
       "sha256": "bd7fcb8052896318f311552db58e0a28e5b352a70c41519e41d39cadfc1ce294"
     },
     {
+      "path": "k4/fable/b2/frozen.json",
+      "bytes": 28863,
+      "sha256": "62bb3cfe15858195dbaba964191e06d8117d0663aaf4278ddbf37904be854172"
+    },
+    {
       "path": "k4/fable/pure_trans_budget.c",
       "bytes": 6493,
       "sha256": "bda1f2f91ad3f0fbba9d9eb434a3155d08f64dc0505037f34961d13706524b5a"
+    },
+    {
+      "path": "k4/panel_sources/README.md",
+      "bytes": 4928,
+      "sha256": "a1d6535977ad19f44d4a8e24a357714c5b767f51dac0e29ee9ae8387e1e7a84f"
+    },
+    {
+      "path": "k4/panel_sources/SHA256SUMS",
+      "bytes": 565,
+      "sha256": "d72d7a2f8de94b6446b4a09844f88dcf5ac543bbb2342f10d288824c61bd8fa9"
     },
     {
       "path": "k4/sanborn_letter_2025_11_12/README.md",
@@ -413,6 +468,11 @@
       "path": "results/nicodemus_subset.json",
       "bytes": 3319,
       "sha256": "8ad3a7cb32caaad9c99f7ce00d1ca72b3d9f61993fe2dd7be32489615dbdd1cb"
+    },
+    {
+      "path": "results/quagmire_linear_filter.json",
+      "bytes": 649267,
+      "sha256": "977375ecab279b494fb822a9fdebfa646cd9bacea06f808a28d0e10797138a74"
     },
     {
       "path": "results/structural_error_bounds.json",

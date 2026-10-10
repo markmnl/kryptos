@@ -78,7 +78,7 @@ below do not alter that input.
 | Pure rearrangement catalog with substitutions allowed | 43,707,615 stored/generated route entries, both directions; full independent recount | **Catalog negative:** every entry needs at least 15 substitutions to satisfy the known letters | Routes outside the catalog, insertions/deletions, genuine substitution layers | E25 |
 | Ordinary single columnar with one wrong letter | Widths 2–24, arbitrary column order | **Excluded in scope** by independent tests; a reviewed exact solver also rejects two wrong letters | Wider columns and other reading conventions | E25 |
 | Structural hand-cipher contradictions | Reflector, Slidefair and six word-reset segmentations | **Mixed:** some survive one edit; other necessary conditions admit repairs | Passing a necessary condition does not recover a cipher key | E25 |
-| Constant-speed word reset after one edit | Both alphabets arbitrary; 50 structurally possible repairs, six declared word splits | **Open / limited:** 49 repairs admit fitted constructions; 49 complete witnesses re-encrypt exactly | No natural plaintext, justified correction or independently motivated alphabet has emerged | E25 |
+| Constant-speed word reset after one edit | Both alphabets arbitrary; 50 structurally possible repairs, six declared word splits | **Open / limited:** 49 repairs admit fitted constructions; all 49 complete witnesses independently verified | No natural plaintext, justified correction or independently motivated alphabet has emerged | E25 |
 
 ## Source work and the human clues
 
@@ -90,6 +90,8 @@ below do not alter that input.
 | City-panel alphabets | 13 explicit panel strings produced 39 alphabets, tested in declared clock/trigger/Chaocipher models | No convincing text; this does not reject every use of city names | E20–E21 |
 | Archive photographs | Six public images show compass sketches, cipher vocabulary and layered materials | No new hard plaintext clue, calibrated angle or executable K4 rule | E22 |
 | Egypt, Berlin and message delivery | These support historical, autobiographical and physical interpretations worth investigating | An itinerary, sentence or numerical key that can be imposed as fact | E22 |
+| Copper-panel anomalies | Raised Y/A/R occur in K3's ciphertext; CIA graphics preserve ragged rows and an extra tableau L | The extra L has not been confirmed in a clear photograph; no decoding operation follows | E26 |
+| Carter's reply as a proposed opening | Six variants and matching English controls frozen; preliminary fits use arbitrary alphabets | The control comparison and independent audit remain in progress; these are not additional hard cribs | E27 |
 
 The large numbers describe work performed, not the probability that we are
 close to solving K4. The useful progress is the smaller set of precise
