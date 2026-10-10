@@ -17,7 +17,8 @@ adding more adjustable settings can produce more fits without teaching us much.
 | 1 | Fresh big-picture hypotheses | Fable has joined, acknowledged the brief and is reading the archive | Produce a diverse list, then rank concrete tests; challenge our framing and separate facts from speculation | May identify a missing instruction rather than another adjustable key |
 | 1 | Revisit the human/physical clues | Source and original-resolution compass-photo review assigned to Claude Online | Report literal observations separately from a proposed reproducible operation | A missing instruction may matter more than another alphabet catalog |
 | 2 | Clarify the historical clock evidence | Partial dated panels verified; full 1989 roster unresolved | Locate a dated original diagram or sufficiently clear complete photographs | Stops modern labels and museum-model differences contaminating hypotheses |
-| 2 | Improve access to original clue wording | The linked November 2025 letter was inaccessible in our checks | Read an accessible primary copy or transcript and preserve its provenance | Avoids turning paraphrases into stronger claims than the author made |
+| Complete | Read the original November 2025 letter | Both scanned pages recovered and independently read; Egypt/Wall concern plaintext inspiration | Preserve the distinction between literal statements and proposed cipher rules | Removes dependence on paraphrases and faulty OCR |
+| 2 | Check original spoken clue context | Letter verified; original press-event recording still sought | Read or hear the complete exchange around the mathematical remark | May clarify the intended scope of the human clues |
 
 These entries describe assignments and priorities, not proof that a process is
 currently running. The working archive records actual process completion.

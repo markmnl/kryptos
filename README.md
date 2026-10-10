@@ -42,6 +42,10 @@ archival material. Recovering words from an archive is different from deriving
 the key and showing how those words became the carved ciphertext. Our objective
 is that cryptographic explanation. [Account of the archival discovery](https://content.rrauction.com/kryptos-k4-discovered-not-solved-heres-what-actually-happened/)
 
+Paradigm subsequently acquired the private archive and announced a system for
+checking proposed answers. Its separate set of ten new puzzles is a different
+challenge from the original K4. [Paradigm's announcement](https://www.paradigm.xyz/writing/kryptos)
+
 ## What we actually know
 
 The public clues fix these plaintext letters at specific positions:
@@ -80,7 +84,7 @@ Mark suggested taking its rotation seriously as a possible physical instruction.
 That led us to test rotating alphabets, coupled wheels, city labels, compass
 reading orders and procedures someone could perform with paper or a mechanical
 device. These are hypotheses; the clock reference does not specify an algorithm.
-[Clue reporting](https://www.scientificamerican.com/article/cia-kryptos-puzzle-creator-releases-final-clues/)
+[Sanborn's original letter](https://s3.documentcloud.org/documents/26229389/adobe-scan-nov-12-2025.pdf)
 
 Historical detail matters. The clock's labels changed over time, and a museum
 model differs from the full-size clock. We have compared dated photographs and

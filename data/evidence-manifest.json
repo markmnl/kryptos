@@ -11,18 +11,23 @@
     },
     {
       "path": "HUMAN_CLUES.md",
-      "bytes": 16352,
-      "sha256": "624674854c4f08091512b260f8db73c80f61f10cbf11944ce6e4dc4df2cb0931"
+      "bytes": 16846,
+      "sha256": "e9d6f5d8d980326afb839d5581178f71ea8e10c6b514e89ace95af8a37e5d940"
     },
     {
       "path": "RESEARCH.md",
-      "bytes": 236678,
-      "sha256": "221669aed05ed75541b6bc863cd5ca896d3b9f52c1ba9f6498dc81865384c7a0"
+      "bytes": 237583,
+      "sha256": "df06c215ab7b5678ddc6ae5ee1a21654b8577cfe534b466eee4d95eb24d1df31"
     },
     {
       "path": "data/k4.json",
       "bytes": 1079,
       "sha256": "319c088a3bb31102b00af034a44e097c53c146e52e6542ea4aa7a59498148fcc"
+    },
+    {
+      "path": "data/paradigm_archive/manifest.json",
+      "bytes": 777,
+      "sha256": "e8efd4653e52053a269aa26ce05da665e017b25bd4766a26407cbb53c4390e8e"
     },
     {
       "path": "experiments/amsco.md",
@@ -175,6 +180,11 @@
       "sha256": "f2df61fd5042357a2d5bb1d3d118c71b11198f1e262317e203e71952bb73c6d7"
     },
     {
+      "path": "experiments/paradigm_source_review.md",
+      "bytes": 2727,
+      "sha256": "4eb6ca0b02fbf4d8c305062726281f44b5e5f8ef906a1bc05395fe583f96d908"
+    },
+    {
       "path": "experiments/periodic_keyword_models.md",
       "bytes": 5798,
       "sha256": "9beb39879792bbc82a46f774d16d4b874ca714ab8d8b335037c8de5668f25672"
@@ -198,6 +208,11 @@
       "path": "experiments/ragbaby_obstruction.md",
       "bytes": 7833,
       "sha256": "4f2d5883a1a6f90043b1df3448167fd45e2ccdfb8f73c9b96675576ec41e7a33"
+    },
+    {
+      "path": "experiments/sanborn_letter_review.md",
+      "bytes": 2780,
+      "sha256": "939d354e3ee2098d018c47ac5d708ab9bf8af1c640eec67679203b99fb872778"
     },
     {
       "path": "experiments/slidefair.md",
@@ -233,6 +248,21 @@
       "path": "k4/cube_check/README.md",
       "bytes": 1017,
       "sha256": "6d2c24dd1f17b5f32f715e123bccdd9d5d0caaf51b16d3375b695d6fb68e511a"
+    },
+    {
+      "path": "k4/sanborn_letter_2025_11_12/README.md",
+      "bytes": 3992,
+      "sha256": "f572674dccf7317894bd30e61070e8d6343e07e1fd4aba7a53e0d5be850470e7"
+    },
+    {
+      "path": "k4/sanborn_letter_2025_11_12/adobe-scan-nov-12-2025.pdf",
+      "bytes": 344646,
+      "sha256": "76a5358f793fbcc4532a5f6ce72145b401a4d43cadf7aacd82e94e08fe798113"
+    },
+    {
+      "path": "k4/sanborn_letter_2025_11_12/documentcloud_api_26229389.json",
+      "bytes": 901,
+      "sha256": "3d61255077d4a4f31042958e6a964963f4e5f3202c9a40657277c107f5c06c1a"
     },
     {
       "path": "results/amsco_columns.json",

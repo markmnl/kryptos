@@ -58,6 +58,7 @@ actual coverage rather than a blanket “verified” label.
 | E21 | Historical World Clock evidence | `experiments/clock_historical_sources.md`; `HUMAN_CLUES.md` |
 | E22 | Archive photographs and human interpretations | `experiments/archive_photo_review.md`; `HUMAN_CLUES.md` |
 | E23 | Amsco with shifts attached to grid columns | `experiments/amsco.md`; `results/amsco_columns.json`; `results/amsco_geometry_audit.json`; `results/amsco_dictionary.json`; `results/amsco_peer_audit.json` |
+| E24 | Original clue letter and current archive sources | `experiments/sanborn_letter_review.md`; `k4/sanborn_letter_2025_11_12/`; `experiments/paradigm_source_review.md`; `data/paradigm_archive/manifest.json` |
 
 Some older running-status paragraphs in the working notebooks are historical
 entries. The latest completed result takes precedence over an earlier plan.
@@ -69,7 +70,9 @@ This summary does not infer that a job is alive from an old assignment.
 | :--- | :--- | :--- |
 | [CIA: Kryptos sculpture](https://www.cia.gov/legacy/headquarters/kryptos-sculpture/) | Official background, physical features and transcription | Historical status language is not a live global solve registry |
 | [Richard Bean's research](https://kryptos.richardbean.id.au/) and [2021 paper](https://ecp.ep.liu.se/index.php/histocrypt/article/download/153/109) | Prior cryptanalysis, public clues and methods to compare against | Reproducing earlier work is validation, not a new discovery |
-| [Scientific American clue report](https://www.scientificamerican.com/article/cia-kryptos-puzzle-creator-releases-final-clues/) | Reporting on the World Clock and later contextual clues | Its linked original letter was inaccessible in our checks; keep reporting distinct from primary text |
+| [Sanborn's original November 2025 letter](https://s3.documentcloud.org/documents/26229389/adobe-scan-nov-12-2025.pdf) | Both scanned pages independently read: plaintext influences, World Clock identification and K5 description | OCR corrupts reading order; the letter's 1988/1989 chronology remains inconsistent |
+| [Scientific American clue report](https://www.scientificamerican.com/article/cia-kryptos-puzzle-creator-releases-final-clues/) | Reporting on the World Clock and later contextual clues | Keep event reporting distinct from the author's original text |
+| [Paradigm's announcement](https://www.paradigm.xyz/writing/kryptos) and [archive gallery](https://www.paradigm.xyz/kryptos/archive) | Current stewardship, verification system and public photographs | Some gallery captions misidentify the images; read the originals, not just their labels |
 | [Sanborn interview, Wired](https://www.wired.com/2005/01/questions-for-kryptos-creator/) | The artist's account of his process | Visual/manual language does not specify an algorithm |
 | [Scheidt interview, Wired](https://www.wired.com/2005/01/inside-info-on-kryptos-codes/) | Cryptographic context and masking discussion | Do not assume a particular extra layer from the word “masking” |
 | [Smithsonian oral history](https://www.aaa.si.edu/collections/interviews/oral-history-interview-jim-sanborn-15700) | First-person historical context | References to already solved sections cannot silently become K4 instructions |
