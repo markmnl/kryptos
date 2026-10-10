@@ -16,6 +16,9 @@ whole theme such as clocks, rotation or masking.
 Evidence IDs below refer to [the evidence index](EVIDENCE.md#working-archive-index).
 **ABC** is the ordinary alphabet; **KA** is `KRYPTOSABCDEFGHIJLMNQUVWXZ`.
 A *crib* is a known piece of plaintext.
+Unless explicitly stated otherwise, tests use the exact canonical ciphertext
+and the 24 confirmed plaintext letters. The separate error-allowance checks
+below do not alter that input.
 
 ## Reading order, grids and substitution
 
@@ -67,6 +70,15 @@ A *crib* is a known piece of plaintext.
 | Fractionated Morse | Fixed injective trigram maps; specified homophonic and short-trit variants | **Excluded in scope** by coordinate, injectivity or length constraints | Changing maps, transposition and different length assumptions | E18 |
 | Carter lecture running key | 38 declared readings derived from 14 ca.1924 lecture records, tested across placements and all 26 constant phases | **Catalog negative:** two complete methods agree | Untranscribed sources, different readings or running-key constructions | E19 |
 | Historical keyword alphabet rules | Literal column-read and numbered-column constructions | **Catalog negative** in the four declared clock/trigger/Chaocipher screens | Using those alphabets in other models | E20 |
+
+## Allowing a hypothetical copying or carving error
+
+| Approach | What we tested | Result | What remains outside the result | Evidence |
+| :--- | :--- | :--- | :--- | :--- |
+| Pure rearrangement catalog with substitutions allowed | 43,707,615 stored/generated route entries, both directions; full independent recount | **Catalog negative:** every entry needs at least 15 substitutions to satisfy the known letters | Routes outside the catalog, insertions/deletions, genuine substitution layers | E25 |
+| Ordinary single columnar with one wrong letter | Widths 2–24, arbitrary column order | **Excluded in scope** by independent tests; a reviewed exact solver also rejects two wrong letters | Wider columns and other reading conventions | E25 |
+| Structural hand-cipher contradictions | Reflector, Slidefair and six word-reset segmentations | **Mixed:** some survive one edit; other necessary conditions admit repairs | Passing a necessary condition does not recover a cipher key | E25 |
+| Constant-speed word reset after one edit | Both alphabets arbitrary; 50 structurally possible repairs, six declared word splits | **Open / limited:** 49 repairs admit fitted constructions; 49 complete witnesses re-encrypt exactly | No natural plaintext, justified correction or independently motivated alphabet has emerged | E25 |
 
 ## Source work and the human clues
 

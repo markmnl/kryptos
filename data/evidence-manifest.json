@@ -16,8 +16,8 @@
     },
     {
       "path": "RESEARCH.md",
-      "bytes": 237583,
-      "sha256": "df06c215ab7b5678ddc6ae5ee1a21654b8577cfe534b466eee4d95eb24d1df31"
+      "bytes": 241498,
+      "sha256": "a85fed2e9c5935ce142af9f0dd240aed74829d2ff5a7be701a5b5b6f31047c8c"
     },
     {
       "path": "data/k4.json",
@@ -135,9 +135,19 @@
       "sha256": "06c3d760cba699270028e10a29e17783a2685cee857cd1edf21ae7bb39bd5463"
     },
     {
+      "path": "experiments/columnar_one_error_audit.py",
+      "bytes": 3683,
+      "sha256": "0a30a2eed5120a712e8ecd10173f407566b749a0b98cb3211715a6888d2b2563"
+    },
+    {
       "path": "experiments/condi.md",
       "bytes": 2533,
       "sha256": "a46cd15dd84bfd50ae3d56f94b280cb152bf5b8b49628d4298dbedca840b23df"
+    },
+    {
+      "path": "experiments/error_budget_review.md",
+      "bytes": 8251,
+      "sha256": "ee644033695089db8c05b7e7af5211bf3a71be77ab0f08caf337857c7c99e689"
     },
     {
       "path": "experiments/feedback_rotor.md",
@@ -220,6 +230,16 @@
       "sha256": "09b387ed2df20cbf05077fee0a6dfdcc8c9a9c3f5cc4702b1608730d2f9c3388"
     },
     {
+      "path": "experiments/structural_error_bounds.py",
+      "bytes": 4183,
+      "sha256": "f049037b6ac236228190b2820e1da7d40eb0d57f0c5766509c47d891840f0d94"
+    },
+    {
+      "path": "experiments/transposition_error_recount.py",
+      "bytes": 5934,
+      "sha256": "d4686b7e2271c081c1db66ac768c50af837e8a6dbfddf76ce857e3677b6c264c"
+    },
+    {
       "path": "experiments/trigger_disk_dictionary.md",
       "bytes": 2504,
       "sha256": "edf0c994cf0c0778e73b6d3642276edf41499d7fc1a0a6a92558a890356d74a2"
@@ -240,6 +260,11 @@
       "sha256": "1981fcd0fe958669e50b3470cab74f5ac9a9189c1ac8b22d8b7907b1ebc40986"
     },
     {
+      "path": "experiments/word_reset_one_error.py",
+      "bytes": 6151,
+      "sha256": "4b7de7a71c96821adad1cfe96e25b6cef70d231273fa17fde1a38139c924bc54"
+    },
+    {
       "path": "k4/bluesky/README.md",
       "bytes": 3471,
       "sha256": "e8c74c291f35ea60f29fd02982bf15d64cb294a277aebcb988b38750b06c1314"
@@ -248,6 +273,26 @@
       "path": "k4/cube_check/README.md",
       "bytes": 1017,
       "sha256": "6d2c24dd1f17b5f32f715e123bccdd9d5d0caaf51b16d3375b695d6fb68e511a"
+    },
+    {
+      "path": "k4/error_audit/audit.py",
+      "bytes": 11572,
+      "sha256": "ddb9386afd8eb3a53d7ff67df1a008ebee078536d02b0579206749f673d5964e"
+    },
+    {
+      "path": "k4/error_audit/audit_results.json",
+      "bytes": 6312,
+      "sha256": "0c3d6da9af968464227db07f4132a199e541dc6642c7dfc4674eac65fb9694e0"
+    },
+    {
+      "path": "k4/fable/README.md",
+      "bytes": 1592,
+      "sha256": "bd7fcb8052896318f311552db58e0a28e5b352a70c41519e41d39cadfc1ce294"
+    },
+    {
+      "path": "k4/fable/pure_trans_budget.c",
+      "bytes": 6493,
+      "sha256": "bda1f2f91ad3f0fbba9d9eb434a3155d08f64dc0505037f34961d13706524b5a"
     },
     {
       "path": "k4/sanborn_letter_2025_11_12/README.md",
@@ -283,6 +328,11 @@
       "path": "results/amsco_peer_audit.json",
       "bytes": 2886,
       "sha256": "98115ec39aea9c89de87b445dde4b62fbe9ef17b7a2c240c77a2837d773edac0"
+    },
+    {
+      "path": "results/columnar_one_error_audit.json",
+      "bytes": 3709,
+      "sha256": "4f1b26c6ed20962e8ef4da859e4a1c2b68de8e6c1fe8e260528f0544b2d306dd"
     },
     {
       "path": "results/common_word_reset_obstruction.json",
@@ -363,6 +413,21 @@
       "path": "results/nicodemus_subset.json",
       "bytes": 3319,
       "sha256": "8ad3a7cb32caaad9c99f7ce00d1ca72b3d9f61993fe2dd7be32489615dbdd1cb"
+    },
+    {
+      "path": "results/structural_error_bounds.json",
+      "bytes": 4717,
+      "sha256": "6eb6cbaccda72ced9f6623206d80e3e289b7105859f13940b2855238548fd188"
+    },
+    {
+      "path": "results/transposition_error_recount.json",
+      "bytes": 26954,
+      "sha256": "7cbac94451fb694fb622af29dce54fe7ae93b55bf38894537a0faf8a79eb9a18"
+    },
+    {
+      "path": "results/word_reset_one_error/results.json",
+      "bytes": 206774,
+      "sha256": "e2fd6ba602938a31a8d60f86a05fe38cb09c019d040d0499b712d46902c84ea2"
     }
   ]
 }
