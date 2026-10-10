@@ -8,7 +8,7 @@
 
 We're trying to recover the message **and the encryption method** behind the
 fourth passage of Kryptos. This is the readable record of an ongoing
-collaboration between Mark, Codex/Astra, Claude Code and Claude Online: historical
+collaboration between Mark, Codex/Astra, Claude Code, Claude Online and Fable: historical
 research, hand-cipher reasoning, computational experiments and independent checks.
 
 **Project status — 11 October 2026:** no authenticated solution. We have ruled

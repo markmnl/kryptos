@@ -41,7 +41,7 @@ actual coverage rather than a blanket “verified” label.
 | E04 | Routes, counting and K3-derived operations | `BLUE_SKY.md`; `RESEARCH.md` |
 | E05 | Compass reading orders | `experiments/bearing_routes.md`; `results/exact_compass_weak_fit.json` |
 | E06 | Nicodemus | `experiments/nicodemus.md`; `results/nicodemus_hall.json`; `results/nicodemus_subset.json`; `results/nicodemus_actual.json` |
-| E07 | Turning grilles | `experiments/turning_grille.md`; `results/grille_periodic_recount.json`; `results/grille_quarter_shuffle.json`; `results/grille_dictionary.json`; `results/grille_orbit_solver.json`; `results/grille_orbit_peer_audit.json`; `results/grille_keyword_phases.json`; `results/grille_phase_geometry.json`; `results/grille_phase_peer_audit.json` |
+| E07 | Turning grilles | `experiments/turning_grille.md`; `results/grille_periodic_recount.json`; `results/grille_quarter_shuffle.json`; `results/grille_dictionary.json`; `results/grille_orbit_solver.json`; `results/grille_orbit_peer_audit.json`; `results/grille_keyword_phases.json`; `results/grille_phase_geometry.json`; `results/grille_phase_peer_audit.json`; `results/grille_counterclockwise.json` |
 | E08 | Single rotors and ring layouts | `experiments/clock_rotor_exact.md`; `experiments/clock_rings.md` |
 | E09 | Coupled wheels and free alphabets | `experiments/clock_continuous_pair.md`; `experiments/clock_full97_exact.md`; `experiments/clock_two_alphabets.md` |
 | E10 | Feedback, row resets and controls | `experiments/feedback_rotor.md`; `experiments/feedback_rotor_rows.md`; `experiments/feedback_rotor_prestep.md`; `experiments/clock_feedback_model_competition.md`; `experiments/clock_column_reset.md` |
@@ -57,7 +57,7 @@ actual coverage rather than a blanket “verified” label.
 | E20 | Keyword alphabet constructions | `experiments/column_keywords.md`; `experiments/clock_city_panel_alphabets.md` |
 | E21 | Historical World Clock evidence | `experiments/clock_historical_sources.md`; `HUMAN_CLUES.md` |
 | E22 | Archive photographs and human interpretations | `experiments/archive_photo_review.md`; `HUMAN_CLUES.md` |
-| E23 | Amsco with shifts attached to grid columns | `experiments/amsco.md`; `results/amsco_columns.json`; `results/amsco_geometry_audit.json`; `results/amsco_dictionary.json` |
+| E23 | Amsco with shifts attached to grid columns | `experiments/amsco.md`; `results/amsco_columns.json`; `results/amsco_geometry_audit.json`; `results/amsco_dictionary.json`; `results/amsco_peer_audit.json` |
 
 Some older running-status paragraphs in the working notebooks are historical
 entries. The latest completed result takes precedence over an earlier plan.

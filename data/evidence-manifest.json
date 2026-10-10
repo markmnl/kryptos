@@ -16,8 +16,8 @@
     },
     {
       "path": "RESEARCH.md",
-      "bytes": 235240,
-      "sha256": "052d3a730e47273449bcacb6b31ac849c94367acc01c869fe834ce49aaaa0134"
+      "bytes": 236678,
+      "sha256": "221669aed05ed75541b6bc863cd5ca896d3b9f52c1ba9f6498dc81865384c7a0"
     },
     {
       "path": "data/k4.json",
@@ -26,8 +26,8 @@
     },
     {
       "path": "experiments/amsco.md",
-      "bytes": 4429,
-      "sha256": "f7c86f5ed9f544c79e19ad95d93c2d2105e73a4c562cd0aece6e22f2701768dc"
+      "bytes": 5272,
+      "sha256": "f9c8853ce04ad0e10e7dc866c5ef53a7cc2ffcc57c9dcc3f3b4f87207b84cc59"
     },
     {
       "path": "experiments/amsco_columns.py",
@@ -38,6 +38,11 @@
       "path": "experiments/amsco_dictionary.py",
       "bytes": 4967,
       "sha256": "cfea735a031c247ac4e0df6ae956f4b14ef7fa57ec79f9c787a5d871c2a334fc"
+    },
+    {
+      "path": "experiments/amsco_peer_audit.py",
+      "bytes": 3382,
+      "sha256": "6d52ca8c981a32854f4cbfde3e3b0132d182a8e5ea4d0b54d8475ecb8932037e"
     },
     {
       "path": "experiments/archive_photo_review.md",
@@ -145,6 +150,11 @@
       "sha256": "a535cea3add0cec3fd26f9b9fb6e0f97be4222e36d56f36c421f73d61b85f6ec"
     },
     {
+      "path": "experiments/grille_counterclockwise.py",
+      "bytes": 5771,
+      "sha256": "2adabbad16dd5e0c0154d2ba517b90d1bdd983dfddc905d7ba6a1e84e7911d1e"
+    },
+    {
       "path": "experiments/grille_keyword_phases.py",
       "bytes": 4252,
       "sha256": "3bcfbce71f683524aea0eaacc17c64843292c1b728b4c812979a9fc6dc1228b3"
@@ -206,8 +216,8 @@
     },
     {
       "path": "experiments/turning_grille.md",
-      "bytes": 7523,
-      "sha256": "3dab5ab60ce596824e299a50ad0eb5fd212b07dbebc2e9c20b02e8783bd69ead"
+      "bytes": 9069,
+      "sha256": "5d67fd1571dd08c932c4c8ad88aeda30aa53c24f778c71f2f9f5a4ee0f77d273"
     },
     {
       "path": "experiments/wheatstone.md",
@@ -240,6 +250,11 @@
       "sha256": "1f9720513750766daf33ae96afdb64e1f4a8a1bbe02d4f6185df89cdb3f1c46e"
     },
     {
+      "path": "results/amsco_peer_audit.json",
+      "bytes": 2886,
+      "sha256": "98115ec39aea9c89de87b445dde4b62fbe9ef17b7a2c240c77a2837d773edac0"
+    },
+    {
       "path": "results/common_word_reset_obstruction.json",
       "bytes": 7693,
       "sha256": "26e195c33ae43c5c97efd9ce2dc66c3b48b5c832a96449377a6756362e808fa0"
@@ -253,6 +268,11 @@
       "path": "results/free_key_completion_enumeration.json",
       "bytes": 323836,
       "sha256": "0b01c5e30aad3785dd1e7068c7c5fe9cf8847d9e49ebcb975e958e762acf7d40"
+    },
+    {
+      "path": "results/grille_counterclockwise.json",
+      "bytes": 10107,
+      "sha256": "e0f2c039fa8b74e8e90ba4ff99aade482b9f925513fb452572b4d2e2cb0ac0e9"
     },
     {
       "path": "results/grille_dictionary.json",
