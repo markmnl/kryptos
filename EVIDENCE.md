@@ -57,6 +57,7 @@ actual coverage rather than a blanket “verified” label.
 | E20 | Keyword alphabet constructions | `experiments/column_keywords.md`; `experiments/clock_city_panel_alphabets.md` |
 | E21 | Historical World Clock evidence | `experiments/clock_historical_sources.md`; `HUMAN_CLUES.md` |
 | E22 | Archive photographs and human interpretations | `experiments/archive_photo_review.md`; `HUMAN_CLUES.md` |
+| E23 | Amsco with shifts attached to grid columns | `experiments/amsco.md`; `results/amsco_columns.json`; `results/amsco_geometry_audit.json`; `results/amsco_dictionary.json` |
 
 Some older running-status paragraphs in the working notebooks are historical
 entries. The latest completed result takes precedence over an earlier plan.
