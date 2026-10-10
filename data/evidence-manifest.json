@@ -16,13 +16,13 @@
     },
     {
       "path": "RESEARCH.md",
-      "bytes": 258144,
-      "sha256": "d84c8c25c5eb67413d2bc76ac4950c42d3d9c2514458fed8df82f95cdb0eee37"
+      "bytes": 261245,
+      "sha256": "62600d3ebb930b565dd501fc79be23fbb91ceb472635d61bc5814fabadf87529"
     },
     {
       "path": "STATUS.md",
-      "bytes": 15339,
-      "sha256": "8383251ff02e254021a678363d82d7616cdff8c228f28777f05c9e83fc472aaf"
+      "bytes": 16131,
+      "sha256": "0856dc0a3d7b97689942d39769f9830d294b0f209e293eba760bcdaa4cdd7c18"
     },
     {
       "path": "data/carter_reply_source/manifest.json",
@@ -330,6 +330,21 @@
       "sha256": "7aa67f6bb872308a3cd59f0f399e93ebd4826574125bd08a6759574e2226a8a7"
     },
     {
+      "path": "experiments/quagmire_full_certify.md",
+      "bytes": 3744,
+      "sha256": "9fba489d53d4e7bcbdf60fe12e49dee40875d373799876b2203668da70d7c00f"
+    },
+    {
+      "path": "experiments/quagmire_full_certify.py",
+      "bytes": 6790,
+      "sha256": "eddd882d1d50cfa3a3d8beaef3ab951cfe6fefdb935eff7906f53c28d2193f7a"
+    },
+    {
+      "path": "experiments/quagmire_full_certify_audit.py",
+      "bytes": 3688,
+      "sha256": "4aa88249ad4d0f0d167bf99c42c32208fa63f29e960af32bac48d78eda45fe14"
+    },
+    {
       "path": "experiments/quagmire_graph_audit.py",
       "bytes": 4475,
       "sha256": "b04acddc13dd25c1521735ff085053f19399416c909132bf9f8ec0541c104851"
@@ -366,8 +381,8 @@
     },
     {
       "path": "experiments/quagmire_plaintext_beam.md",
-      "bytes": 6554,
-      "sha256": "4ed1941277bd61166f8f16f01e5cc8e94b8b3dcdaa4bf39670a0e6695bc89fc2"
+      "bytes": 7249,
+      "sha256": "0cc5c3fc60fdaf7d24e131f8ceca178d3106ac8a92308dfa9362c395f5e4e81a"
     },
     {
       "path": "experiments/quagmire_plaintext_beam_plan.md",
@@ -411,8 +426,8 @@
     },
     {
       "path": "experiments/quagmire_sparse_beam.md",
-      "bytes": 4573,
-      "sha256": "e23cba5f781c6f75b7108fadae2f561b992deac30f3613e626c7a26a71e21f37"
+      "bytes": 4804,
+      "sha256": "23542423d410df3e2255ee3cdbb629117a79caeac657ab41e9a79d6af6b9fc39"
     },
     {
       "path": "experiments/quagmire_sparse_beam_plan.md",
@@ -423,6 +438,31 @@
       "path": "experiments/quagmire_sparse_peer_outputs.py",
       "bytes": 1315,
       "sha256": "0408c415950c862229ba0bcbcd3b8d50d49b7370d9d259965acb3b225b3d0924"
+    },
+    {
+      "path": "experiments/quagmire_word_probe_audit.py",
+      "bytes": 4052,
+      "sha256": "4cee2eaf3203d20905f75ac9b8d785c1c79333930efe8fc454cfe13fb9123260"
+    },
+    {
+      "path": "experiments/quagmire_word_support.md",
+      "bytes": 4049,
+      "sha256": "77b426302128ed2b00a75d10d589e8993d2a51733054f9cb6fc73ce0c5d12b81"
+    },
+    {
+      "path": "experiments/quagmire_word_support.py",
+      "bytes": 5113,
+      "sha256": "aa95d28b6939e7978468bad0007d1d22e1d03ffc5f708aad1ef51c1de9f12c99"
+    },
+    {
+      "path": "experiments/quagmire_wordbench.md",
+      "bytes": 3290,
+      "sha256": "a83dff16324e77e41a6b1dc6619f37fae3d8a2c5c32c65cd602f75cddbd0cc78"
+    },
+    {
+      "path": "experiments/quagmire_wordbench_audit.py",
+      "bytes": 7287,
+      "sha256": "5423086c8e9da89499bed0f56167da08bd7bf5f10cf0e611ef9632f3df9dbc9d"
     },
     {
       "path": "experiments/ragbaby_obstruction.md",
@@ -605,6 +645,11 @@
       "sha256": "4ce71d6fbfe57391070f69fe30e2401a42e4e7e915209d659c0fcd48b9e9686c"
     },
     {
+      "path": "k4/fable/b7_benchmark_proposal.md",
+      "bytes": 5705,
+      "sha256": "ce3a6c7a4f20be2c694cf53b50ce087aa2f51e0b509f855d9ed1f11597c7af42"
+    },
+    {
       "path": "k4/fable/pure_trans_budget.c",
       "bytes": 6493,
       "sha256": "bda1f2f91ad3f0fbba9d9eb434a3155d08f64dc0505037f34961d13706524b5a"
@@ -621,13 +666,13 @@
     },
     {
       "path": "k4/quagmire_beam_ref/README.md",
-      "bytes": 13140,
-      "sha256": "f41d1e868414f947cc96fc6d62152c67a007c8913d8f2ecdff03e53eca66353c"
+      "bytes": 14876,
+      "sha256": "8edd2e468a38b47ed4687e1f685c0c9eba158aaeeff0feffe39ec65774b7985d"
     },
     {
       "path": "k4/quagmire_beam_ref/SHA256SUMS",
-      "bytes": 2042,
-      "sha256": "affb01795e3c57b9356c257d95528239ab6fc84cdb371d3827e2d88b95db246d"
+      "bytes": 2900,
+      "sha256": "d0a268c3231394505e82647065f73301ab2abc33acf1f175db7f8f6e2e1be459"
     },
     {
       "path": "k4/quagmire_beam_ref/beam_ref.json",
@@ -638,6 +683,26 @@
       "path": "k4/quagmire_beam_ref/beam_ref.py",
       "bytes": 9825,
       "sha256": "1fc4858bda87cabb8f84b6bd68175bfdaed93f04f6504f60f0af3b540f3b9f62"
+    },
+    {
+      "path": "k4/quagmire_beam_ref/certify.py",
+      "bytes": 6690,
+      "sha256": "be13d560be1faf44d60be980672f4799cbbf05f02a6f90bb7066e92f3d674a3a"
+    },
+    {
+      "path": "k4/quagmire_beam_ref/certify_audit.json",
+      "bytes": 1931,
+      "sha256": "20c886162163f00ff81ef8e2be6d6410a63223693b39ef56c32933fcd232c301"
+    },
+    {
+      "path": "k4/quagmire_beam_ref/certify_audit.py",
+      "bytes": 1838,
+      "sha256": "3f8584baf47e77ad0896a496ce50ac6b678d059eb1d54faf55ae18133663677d"
+    },
+    {
+      "path": "k4/quagmire_beam_ref/certify_tests.json",
+      "bytes": 1206,
+      "sha256": "e609e9e051917d8955a21d57eb75c23f5018376e695a7c819688b2e7f2aca3aa"
     },
     {
       "path": "k4/quagmire_beam_ref/compare_go_filter.py",
@@ -705,6 +770,26 @@
       "sha256": "fb7ccf196c9a71779c649d107239212e7995c623b04217ecee1f9b7a652901f3"
     },
     {
+      "path": "k4/quagmire_beam_ref/word_branching_probe.json",
+      "bytes": 2633,
+      "sha256": "2450139a181a6632368b9dc51c6dbf56decd01fe08dbb401ec988cecce2099e7"
+    },
+    {
+      "path": "k4/quagmire_beam_ref/word_branching_probe.py",
+      "bytes": 3152,
+      "sha256": "0cf2f1b656fc94da748533bb621ac75431a468bdca0c7c663b07b2623f26231c"
+    },
+    {
+      "path": "k4/quagmire_beam_ref/word_support_check.json",
+      "bytes": 1986,
+      "sha256": "24ba13ed4371597eea1af61e0027e26c0e23e3ccce738e9539c08ef6f730abbd"
+    },
+    {
+      "path": "k4/quagmire_beam_ref/word_support_check.py",
+      "bytes": 3324,
+      "sha256": "f4088938d62c6ef22cd01916b7bc6bbd604a2d809fab8e9eced75dfe576233b9"
+    },
+    {
       "path": "k4/rowwise_mono/README.md",
       "bytes": 2894,
       "sha256": "88e987e7001bef3c34f8561815e44ff1c3cbf9d47595da3ac6a725fcac80a9cf"
@@ -753,6 +838,26 @@
       "path": "k4/sanborn_letter_2025_11_12/documentcloud_api_26229389.json",
       "bytes": 901,
       "sha256": "3d61255077d4a4f31042958e6a964963f4e5f3202c9a40657277c107f5c06c1a"
+    },
+    {
+      "path": "k4/wordbench/README.md",
+      "bytes": 3429,
+      "sha256": "d118f889945a98da3c6d697870c7480cfcbb36c329bd5f36aa91856a830f8e38"
+    },
+    {
+      "path": "k4/wordbench/fixtures.json",
+      "bytes": 88798,
+      "sha256": "da42f5d769dbba7ee47419261a96976d6b713be71d059020ff97ce63bc8faa0f"
+    },
+    {
+      "path": "k4/wordbench/generate.py",
+      "bytes": 14738,
+      "sha256": "f2589daf4170773156081faa228490b97a58b36cc381233d62dfbcd46eda29bb"
+    },
+    {
+      "path": "k4/wordbench/plaintexts.json",
+      "bytes": 83382,
+      "sha256": "197e17296aac0f79e2729934649d56ad08bcdff969fab715e8edbffa5d87f3ee"
     },
     {
       "path": "results/amsco_columns.json",
@@ -930,6 +1035,16 @@
       "sha256": "b042f79454b7eadde3b37b659255171182574d876ff01a5167d6592ee28edebc"
     },
     {
+      "path": "results/quagmire_full_certify.json",
+      "bytes": 10661,
+      "sha256": "b0bff1bf0de234b9d582c3b567b7e43c98e1985a19ea8b197f44237ccf286a18"
+    },
+    {
+      "path": "results/quagmire_full_certify_audit.json",
+      "bytes": 408993,
+      "sha256": "f37feaa439b8d36609889c179d482f1ef0fc687b7977381cd9396e8148a45fee"
+    },
+    {
       "path": "results/quagmire_graph_audit.json",
       "bytes": 1502,
       "sha256": "6bd7e8e7109c4f03fd950cd798c13864006d9ab987310d3f0afd48af71717036"
@@ -1018,6 +1133,21 @@
       "path": "results/quagmire_sparse_small_1.json",
       "bytes": 3796,
       "sha256": "34a885a7591c73fa1e20ade12a22a04a5aa4695d091e32f24225a1a5a812c897"
+    },
+    {
+      "path": "results/quagmire_word_probe_audit.json",
+      "bytes": 4628,
+      "sha256": "30a1e8e7e8796376ffe244f0dc0e3306b21904f84f63878b1e241a70c5c93b8f"
+    },
+    {
+      "path": "results/quagmire_word_support.json",
+      "bytes": 94562,
+      "sha256": "028aaeb91b908ddfe1efe7598d0e472b7601613f4198f45a515d14dea93f1986"
+    },
+    {
+      "path": "results/quagmire_wordbench_audit.json",
+      "bytes": 43353,
+      "sha256": "298f006f4cf6b64358027ba1c2027577e50b4b516a21bf026621ba63574aeea0"
     },
     {
       "path": "results/structural_error_bounds.json",

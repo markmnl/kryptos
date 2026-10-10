@@ -37,7 +37,7 @@ actual coverage rather than a blanket “verified” label.
 | :--- | :--- | :--- |
 | E01 | Input, simple invariants and early tests | `data/k4.json`; `RESEARCH.md` |
 | E02 | Periodic keywords and free alphabet completions | `experiments/periodic_keyword_models.md`; `results/free_key_completion_enumeration.json` |
-| E03 | Quagmire feasibility and recovery limits | `experiments/quagmire_free_periods.md`; `experiments/quagmire_graph_search.md`; `results/quagmire_graph_audit.json`; `results/quagmire_graph_reproduction/manifest.json`; `experiments/quagmire_plaintext_beam.md`; `experiments/quagmire_sparse_beam.md`; `results/quagmire_sparse_audit.json`; `results/quagmire_sparse_peer_output_audit.json`; `RESEARCH.md` |
+| E03 | Quagmire feasibility and recovery limits | `experiments/quagmire_free_periods.md`; `experiments/quagmire_graph_search.md`; `results/quagmire_graph_audit.json`; `results/quagmire_graph_reproduction/manifest.json`; `experiments/quagmire_plaintext_beam.md`; `experiments/quagmire_sparse_beam.md`; `experiments/quagmire_full_certify.md`; `results/quagmire_full_certify_audit.json`; `RESEARCH.md` |
 | E04 | Routes, counting and K3-derived operations | `BLUE_SKY.md`; `RESEARCH.md` |
 | E05 | Compass reading orders | `experiments/bearing_routes.md`; `results/exact_compass_weak_fit.json` |
 | E06 | Nicodemus | `experiments/nicodemus.md`; `results/nicodemus_hall.json`; `results/nicodemus_subset.json`; `results/nicodemus_actual.json` |
@@ -64,6 +64,7 @@ actual coverage rather than a blanket “verified” label.
 | E27 | Conditional Carter openings and English controls | `experiments/carter_conditional.md`; `experiments/carter_discrimination_audit.py`; `results/carter_discrimination_audit.json`; `experiments/quagmire_linear_filter.py`; `results/quagmire_linear_filter.json`; `k4/error_audit/verify_carter_witnesses.py`; `k4/fable/b2/frozen.json` |
 | E28 | Forced-letter projection and periodic repetition controls | `experiments/quagmire_projection_controls.md`; `experiments/quagmire_projection_controls_plan.md`; `results/quagmire_projection_controls.json`; `results/quagmire_projection_audit.json`; `results/periodic_coincidence_audit.json`; `results/periodic_coincidence_peer_audit.json`; `k4/quagmire_beam_ref/projection_audit.json` |
 | E29 | Published-row edge keys and fixed substitution per row | `experiments/panel_edge_keys.md`; `experiments/panel_edge_key_audit.py`; `results/panel_edge_key_audit.json`; `k4/fable/b6/edge_keys.py`; `k4/rowwise_mono/README.md`; `k4/rowwise_mono/rowwise_mono.json` |
+| E30 | Word boundaries and lexical support of recovery benchmarks | `experiments/quagmire_word_support.md`; `experiments/quagmire_wordbench.md`; `results/quagmire_word_support.json`; `results/quagmire_word_probe_audit.json`; `results/quagmire_wordbench_audit.json`; `k4/wordbench/fixtures.json`; `k4/quagmire_beam_ref/word_support_check.json` |
 
 Some older running-status paragraphs in the working notebooks are historical
 entries. The latest completed result takes precedence over an earlier plan.
