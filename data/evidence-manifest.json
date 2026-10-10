@@ -16,13 +16,13 @@
     },
     {
       "path": "RESEARCH.md",
-      "bytes": 254268,
-      "sha256": "f0cb62b4877a8fc2db5b7ba682224d0443975ffe7d471b9bf3c5d34c9c3edf2f"
+      "bytes": 256408,
+      "sha256": "7592b2107d6359ec98ccbb2a317b6f0fd5bf3b62ec094a4ce1838a7a436a6a4a"
     },
     {
       "path": "STATUS.md",
-      "bytes": 14619,
-      "sha256": "5b6a254b090c639fbd7cde503cd5509baffbe013509969a473bc962484014a03"
+      "bytes": 14987,
+      "sha256": "9110df87413ebf6f287e9778f1bfe5a614b099d590323bffd2eb74dcf42cae49"
     },
     {
       "path": "data/carter_reply_source/manifest.json",
@@ -390,9 +390,29 @@
       "sha256": "1b1c6d08028e6ca4b1bbfefcd6a56277340336d36e87d404c09567b8c54ac765"
     },
     {
+      "path": "experiments/quagmire_sparse_audit.py",
+      "bytes": 5721,
+      "sha256": "572908b8fb9febf8aa6b70a2fc4c262c5e564eed57c3d1d5bb12ac1d429401ea"
+    },
+    {
+      "path": "experiments/quagmire_sparse_beam.go",
+      "bytes": 16713,
+      "sha256": "d9ceaf6331d000348c706c7611705d9ebd5e72b4ac5533fedeb15623f57c0659"
+    },
+    {
+      "path": "experiments/quagmire_sparse_beam.md",
+      "bytes": 4573,
+      "sha256": "e23cba5f781c6f75b7108fadae2f561b992deac30f3613e626c7a26a71e21f37"
+    },
+    {
       "path": "experiments/quagmire_sparse_beam_plan.md",
-      "bytes": 2043,
-      "sha256": "8eb4e9e53b318b911899fa9fbe15ae8bdda0b7099692db534d4665fabe8891f3"
+      "bytes": 2072,
+      "sha256": "7b474057b51cbb4c76e103f9731e49aeb110798ef404d1183984952534aa5bc7"
+    },
+    {
+      "path": "experiments/quagmire_sparse_peer_outputs.py",
+      "bytes": 1315,
+      "sha256": "0408c415950c862229ba0bcbcd3b8d50d49b7370d9d259965acb3b225b3d0924"
     },
     {
       "path": "experiments/ragbaby_obstruction.md",
@@ -581,13 +601,13 @@
     },
     {
       "path": "k4/quagmire_beam_ref/README.md",
-      "bytes": 11011,
-      "sha256": "952d5c7d1b0024fd03f1bba8de2a7728c0d0632012558b865338215657ed612e"
+      "bytes": 13140,
+      "sha256": "f41d1e868414f947cc96fc6d62152c67a007c8913d8f2ecdff03e53eca66353c"
     },
     {
       "path": "k4/quagmire_beam_ref/SHA256SUMS",
-      "bytes": 1520,
-      "sha256": "bc45ea842242e6f6ff93bfe6330ae1c79cac0b438607706030ca4c599c25c6c8"
+      "bytes": 2042,
+      "sha256": "affb01795e3c57b9356c257d95528239ab6fc84cdb371d3827e2d88b95db246d"
     },
     {
       "path": "k4/quagmire_beam_ref/beam_ref.json",
@@ -636,13 +656,33 @@
     },
     {
       "path": "k4/quagmire_beam_ref/projection_audit.json",
-      "bytes": 1145,
-      "sha256": "ac7aeb05730a508243d2f6b6c0e4643e72e757c934a2953da641197799f316da"
+      "bytes": 1134,
+      "sha256": "50895042384c5002d0351b29683938a5696eb89c904bbd0a3e323d4277af69fb"
     },
     {
       "path": "k4/quagmire_beam_ref/projection_audit.py",
-      "bytes": 6379,
-      "sha256": "4832ccc926a3f3d98972d466e50454a5f432a1ca19b41480537f183dde8847da"
+      "bytes": 6916,
+      "sha256": "1609f5fecf11d0b83482542e805b4c41d41ce3c5560732defdae1cd12cfc1356"
+    },
+    {
+      "path": "k4/quagmire_beam_ref/sparse_audit.json",
+      "bytes": 658,
+      "sha256": "9420590406f7b22fd7b8cfe527ede66a6ea54c15c7934c6ee29f91a7737a2d50"
+    },
+    {
+      "path": "k4/quagmire_beam_ref/sparse_audit.py",
+      "bytes": 6079,
+      "sha256": "1548995d11d8f9b6cf96da11fb0ec5d375e7a4d1c5265df6cd5bdbc48bc840ff"
+    },
+    {
+      "path": "k4/quagmire_beam_ref/sparse_results_check.json",
+      "bytes": 2239,
+      "sha256": "90a702894933258f676dcbe8734c67dbbffca5fab5d557967af075823024761d"
+    },
+    {
+      "path": "k4/quagmire_beam_ref/sparse_results_check.py",
+      "bytes": 2224,
+      "sha256": "fb7ccf196c9a71779c649d107239212e7995c623b04217ecee1f9b7a652901f3"
     },
     {
       "path": "k4/sanborn_letter_2025_11_12/README.md",
@@ -888,6 +928,36 @@
       "path": "results/quagmire_projection_controls.json",
       "bytes": 874431,
       "sha256": "c9aefc74011a28cee65107459ac32804212ca223d865c8e8e9604e8713b6d71c"
+    },
+    {
+      "path": "results/quagmire_sparse_audit.json",
+      "bytes": 266,
+      "sha256": "d220f9dad182b856e66de5c2e67b74a7a5e9da7c0df4c64f6ac01c8a0dde033b"
+    },
+    {
+      "path": "results/quagmire_sparse_output_audit.json",
+      "bytes": 312,
+      "sha256": "ef34d8b878cf2ea3a7fc5a6e14ddca49e9296d69800a66bebee246df9fb5460a"
+    },
+    {
+      "path": "results/quagmire_sparse_peer_output_audit.json",
+      "bytes": 129,
+      "sha256": "a7a5587c1fbf9cd1a49bdc3c3cb4d9956e712583668585fb30f22567fb2bcb74"
+    },
+    {
+      "path": "results/quagmire_sparse_public24.json",
+      "bytes": 107357,
+      "sha256": "66370095dc61cef76498e37866257fe73d034aa32418e56f5d6cde515f5bc444"
+    },
+    {
+      "path": "results/quagmire_sparse_small_0.json",
+      "bytes": 3605,
+      "sha256": "d4ab9227585f4feec751f07e9e87fd00778a07d27b504dd2825be27c5a545291"
+    },
+    {
+      "path": "results/quagmire_sparse_small_1.json",
+      "bytes": 3796,
+      "sha256": "34a885a7591c73fa1e20ade12a22a04a5aa4695d091e32f24225a1a5a812c897"
     },
     {
       "path": "results/structural_error_bounds.json",

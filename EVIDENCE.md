@@ -37,7 +37,7 @@ actual coverage rather than a blanket “verified” label.
 | :--- | :--- | :--- |
 | E01 | Input, simple invariants and early tests | `data/k4.json`; `RESEARCH.md` |
 | E02 | Periodic keywords and free alphabet completions | `experiments/periodic_keyword_models.md`; `results/free_key_completion_enumeration.json` |
-| E03 | Quagmire feasibility and recovery limits | `experiments/quagmire_free_periods.md`; `experiments/quagmire_graph_search.md`; `results/quagmire_graph_audit.json`; `results/quagmire_graph_reproduction/manifest.json`; `experiments/quagmire_plaintext_beam.md`; `results/quagmire_beam_peer_comparison.json`; `results/quagmire_beam_reference_audit.json`; `RESEARCH.md` |
+| E03 | Quagmire feasibility and recovery limits | `experiments/quagmire_free_periods.md`; `experiments/quagmire_graph_search.md`; `results/quagmire_graph_audit.json`; `results/quagmire_graph_reproduction/manifest.json`; `experiments/quagmire_plaintext_beam.md`; `experiments/quagmire_sparse_beam.md`; `results/quagmire_sparse_audit.json`; `results/quagmire_sparse_peer_output_audit.json`; `RESEARCH.md` |
 | E04 | Routes, counting and K3-derived operations | `BLUE_SKY.md`; `RESEARCH.md` |
 | E05 | Compass reading orders | `experiments/bearing_routes.md`; `results/exact_compass_weak_fit.json` |
 | E06 | Nicodemus | `experiments/nicodemus.md`; `results/nicodemus_hall.json`; `results/nicodemus_subset.json`; `results/nicodemus_actual.json` |
