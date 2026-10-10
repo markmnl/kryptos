@@ -16,13 +16,13 @@
     },
     {
       "path": "RESEARCH.md",
-      "bytes": 251690,
-      "sha256": "8965587704cfc42a53e73edcd234a8e30159a58cdf40d34c4ac05c09721e7d0f"
+      "bytes": 254268,
+      "sha256": "f0cb62b4877a8fc2db5b7ba682224d0443975ffe7d471b9bf3c5d34c9c3edf2f"
     },
     {
       "path": "STATUS.md",
-      "bytes": 14187,
-      "sha256": "f7d08624c3bcc00c15dad07d5ce1d46a98ad8f355f31f2da33f1ca09f781ebd8"
+      "bytes": 14619,
+      "sha256": "5b6a254b090c639fbd7cde503cd5509baffbe013509969a473bc962484014a03"
     },
     {
       "path": "data/carter_reply_source/manifest.json",
@@ -265,6 +265,16 @@
       "sha256": "4eb6ca0b02fbf4d8c305062726281f44b5e5f8ef906a1bc05395fe583f96d908"
     },
     {
+      "path": "experiments/periodic_coincidence_audit.py",
+      "bytes": 3720,
+      "sha256": "87e8a1fdd49562cf1ed2f58fef7934d0fe1b7ec36b1529a192d914895cc7313c"
+    },
+    {
+      "path": "experiments/periodic_coincidence_peer_audit.py",
+      "bytes": 2544,
+      "sha256": "34ee6543c80da9504d04f847f344c670b72677fe121da8c3f74eef5b89f4f914"
+    },
+    {
       "path": "experiments/periodic_keyword_models.md",
       "bytes": 5798,
       "sha256": "9beb39879792bbc82a46f774d16d4b874ca714ab8d8b335037c8de5668f25672"
@@ -298,6 +308,11 @@
       "path": "experiments/quagmire_beam_reference.py",
       "bytes": 4109,
       "sha256": "f9ddc3750bf29a693fbbe75e86e970165b772de8413709b13f1a73b3be1873cf"
+    },
+    {
+      "path": "experiments/quagmire_forced_projection.py",
+      "bytes": 5094,
+      "sha256": "3c712267b30747c5f5995fd349f8e25670f40be82e27172378442c9add389988"
     },
     {
       "path": "experiments/quagmire_free_periods.md",
@@ -353,6 +368,31 @@
       "path": "experiments/quagmire_plaintext_beam_test.go",
       "bytes": 1363,
       "sha256": "d0cd64781eead32ab1b22d30742cfb0b20ff16b75885604585c904e81a4af6d7"
+    },
+    {
+      "path": "experiments/quagmire_projection_audit.py",
+      "bytes": 2196,
+      "sha256": "e2ce4382463901e64fe350fb3bce41f7441817b6e0c6b3861e4563e01792c1e7"
+    },
+    {
+      "path": "experiments/quagmire_projection_controls.md",
+      "bytes": 6568,
+      "sha256": "1cb3fa3e7bd5bbf5b6051d544429a2516687cbf233d42a93d8bf7d903ad2857d"
+    },
+    {
+      "path": "experiments/quagmire_projection_controls.py",
+      "bytes": 3858,
+      "sha256": "b5368f5ac3d1cf9ab3af9cda5fb0aaf857dafe1edfc51eefbf752bd3b35918d2"
+    },
+    {
+      "path": "experiments/quagmire_projection_controls_plan.md",
+      "bytes": 2337,
+      "sha256": "1b1c6d08028e6ca4b1bbfefcd6a56277340336d36e87d404c09567b8c54ac765"
+    },
+    {
+      "path": "experiments/quagmire_sparse_beam_plan.md",
+      "bytes": 2043,
+      "sha256": "8eb4e9e53b318b911899fa9fbe15ae8bdda0b7099692db534d4665fabe8891f3"
     },
     {
       "path": "experiments/ragbaby_obstruction.md",
@@ -491,8 +531,28 @@
     },
     {
       "path": "k4/fable/README.md",
-      "bytes": 3863,
-      "sha256": "359eb185f0594e9424df1578bfae6610c17808072e08655aa0caaa6dd541f2b2"
+      "bytes": 5265,
+      "sha256": "3e1072c766f5f1cdcd7f55af2540e70064bcd3ebcda184d332c79678e00e2b02"
+    },
+    {
+      "path": "k4/fable/b2/coincidence_stat.log",
+      "bytes": 1499,
+      "sha256": "403758ba2d23383e6c13b4b4bb921c2dc1d3c58df579ffa236a9a84c351172ac"
+    },
+    {
+      "path": "k4/fable/b2/coincidence_stat.py",
+      "bytes": 2534,
+      "sha256": "c29e80c06b71d3cf852042f8d4043ac1f24292edb3007357e8a17869a3aa5b49"
+    },
+    {
+      "path": "k4/fable/b2/coincidence_windows.json",
+      "bytes": 255878,
+      "sha256": "0884fdb76d4eb7f6f802560d6abd640bac5d5edd676be0324571267bb346d82f"
+    },
+    {
+      "path": "k4/fable/b2/forced_symbolic.py",
+      "bytes": 3622,
+      "sha256": "e4e6b0da2bd0b4874d18944684f177672107bc47f6edf271b292cab2aef1b8c9"
     },
     {
       "path": "k4/fable/b2/frozen.json",
@@ -521,13 +581,13 @@
     },
     {
       "path": "k4/quagmire_beam_ref/README.md",
-      "bytes": 4548,
-      "sha256": "b0bf7b91e494e0123c473a37b3dea967b43bb04363e999921a65b63ce1eb76d1"
+      "bytes": 11011,
+      "sha256": "952d5c7d1b0024fd03f1bba8de2a7728c0d0632012558b865338215657ed612e"
     },
     {
       "path": "k4/quagmire_beam_ref/SHA256SUMS",
-      "bytes": 830,
-      "sha256": "8609b3db4f5364351019128d7719836d3a44722d0b8454fe0ef036a9870c7ede"
+      "bytes": 1520,
+      "sha256": "bc45ea842242e6f6ff93bfe6330ae1c79cac0b438607706030ca4c599c25c6c8"
     },
     {
       "path": "k4/quagmire_beam_ref/beam_ref.json",
@@ -553,6 +613,36 @@
       "path": "k4/quagmire_beam_ref/compare_root_cases.json",
       "bytes": 198,
       "sha256": "9c7693fb138e24e09f566fc75de749c5542d3dfe2c53c93b9af74fefd3ebb32f"
+    },
+    {
+      "path": "k4/quagmire_beam_ref/forced_letters.json",
+      "bytes": 90049,
+      "sha256": "af95844e4eb99c4a08d63e52ce8b4ad22cf2ef3fa2655e96929bbcd13cb6b083"
+    },
+    {
+      "path": "k4/quagmire_beam_ref/forced_letters.py",
+      "bytes": 6708,
+      "sha256": "5f6441e0d45bd7e9360d70e1857d99363c651fa6715fc5c13b2044ac67f83390"
+    },
+    {
+      "path": "k4/quagmire_beam_ref/forced_score_probe.json",
+      "bytes": 1358,
+      "sha256": "39ec16fde22177e32ce1041d09b7ac8be0f42bdca1a1e375503bac3c98892dc2"
+    },
+    {
+      "path": "k4/quagmire_beam_ref/forced_score_probe.py",
+      "bytes": 3020,
+      "sha256": "491c734479a397c9e99417438f2eb02e953503bba3b5bb2e3697d34faa03b5a6"
+    },
+    {
+      "path": "k4/quagmire_beam_ref/projection_audit.json",
+      "bytes": 1145,
+      "sha256": "ac7aeb05730a508243d2f6b6c0e4643e72e757c934a2953da641197799f316da"
+    },
+    {
+      "path": "k4/quagmire_beam_ref/projection_audit.py",
+      "bytes": 6379,
+      "sha256": "4832ccc926a3f3d98972d466e50454a5f432a1ca19b41480537f183dde8847da"
     },
     {
       "path": "k4/sanborn_letter_2025_11_12/README.md",
@@ -690,6 +780,16 @@
       "sha256": "8ad3a7cb32caaad9c99f7ce00d1ca72b3d9f61993fe2dd7be32489615dbdd1cb"
     },
     {
+      "path": "results/periodic_coincidence_audit.json",
+      "bytes": 4530,
+      "sha256": "0ddc44691d6c14f3f11e15495fbd1499a0d05c1d5a027716c04923a091671d7b"
+    },
+    {
+      "path": "results/periodic_coincidence_peer_audit.json",
+      "bytes": 3581,
+      "sha256": "a979b032a211e52d7b42e74c4ffd69614066deaaa6d457cbc005d32c9d32d751"
+    },
+    {
       "path": "results/quagmire_beam_filter_audit.json",
       "bytes": 429,
       "sha256": "8b95d78ecf3af1bb22cf3579795a90cbc3fd5c6cbd4d579c9c03078d696c77df"
@@ -723,6 +823,11 @@
       "path": "results/quagmire_beam_reference_audit.json",
       "bytes": 299,
       "sha256": "5376098b6cd4a5fdc884ed98027db0b69de2b234238688bb9e81aa7dfedf3954"
+    },
+    {
+      "path": "results/quagmire_forced_projection.json",
+      "bytes": 1681417,
+      "sha256": "b042f79454b7eadde3b37b659255171182574d876ff01a5167d6592ee28edebc"
     },
     {
       "path": "results/quagmire_graph_audit.json",
@@ -773,6 +878,16 @@
       "path": "results/quagmire_linear_filter.json",
       "bytes": 649267,
       "sha256": "977375ecab279b494fb822a9fdebfa646cd9bacea06f808a28d0e10797138a74"
+    },
+    {
+      "path": "results/quagmire_projection_audit.json",
+      "bytes": 350,
+      "sha256": "2b0ba7689aff8a03be016400a780ed4d79df48ce96e893b9d7aa2b98dcc800ea"
+    },
+    {
+      "path": "results/quagmire_projection_controls.json",
+      "bytes": 874431,
+      "sha256": "c9aefc74011a28cee65107459ac32804212ca223d865c8e8e9604e8713b6d71c"
     },
     {
       "path": "results/structural_error_bounds.json",

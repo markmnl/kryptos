@@ -62,6 +62,7 @@ actual coverage rather than a blanket “verified” label.
 | E25 | Sensitivity to hypothetical ciphertext substitutions | `experiments/error_budget_review.md`; `results/columnar_one_error_audit.json`; `results/structural_error_bounds.json`; `results/transposition_error_recount.json`; `results/word_reset_one_error/results.json`; `k4/error_audit/`; `k4/fable/` |
 | E26 | Physical panel versus published representation | `experiments/cia_panel_layout.md`; `experiments/cia_panel_transcription.py`; `data/cia_panels/manifest.json`; `k4/panel_sources/README.md` |
 | E27 | Conditional Carter openings and English controls | `experiments/carter_conditional.md`; `experiments/carter_discrimination_audit.py`; `results/carter_discrimination_audit.json`; `experiments/quagmire_linear_filter.py`; `results/quagmire_linear_filter.json`; `k4/error_audit/verify_carter_witnesses.py`; `k4/fable/b2/frozen.json` |
+| E28 | Forced-letter projection and periodic repetition controls | `experiments/quagmire_projection_controls.md`; `experiments/quagmire_projection_controls_plan.md`; `results/quagmire_projection_controls.json`; `results/quagmire_projection_audit.json`; `results/periodic_coincidence_audit.json`; `results/periodic_coincidence_peer_audit.json`; `k4/quagmire_beam_ref/projection_audit.json` |
 
 Some older running-status paragraphs in the working notebooks are historical
 entries. The latest completed result takes precedence over an earlier plan.
