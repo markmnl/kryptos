@@ -16,13 +16,13 @@
     },
     {
       "path": "RESEARCH.md",
-      "bytes": 261245,
-      "sha256": "62600d3ebb930b565dd501fc79be23fbb91ceb472635d61bc5814fabadf87529"
+      "bytes": 262518,
+      "sha256": "cb6c132e73f5f292a2d50964655d5ba6be991ae92e3e84af0f58aa0c5d19e743"
     },
     {
       "path": "STATUS.md",
-      "bytes": 16131,
-      "sha256": "0856dc0a3d7b97689942d39769f9830d294b0f209e293eba760bcdaa4cdd7c18"
+      "bytes": 16325,
+      "sha256": "f97a6ac80ce3f3929677a8c748db680f686f1d1b06ff34eb17a4398b61fd1f4a"
     },
     {
       "path": "data/carter_reply_source/manifest.json",
@@ -520,6 +520,36 @@
       "sha256": "4b7de7a71c96821adad1cfe96e25b6cef70d231273fa17fde1a38139c924bc54"
     },
     {
+      "path": "experiments/wordbeam_audit_export_test.go",
+      "bytes": 4017,
+      "sha256": "590660f7d062b002f96c29f6607db847fab727d725c61077b89007a0f92bb75e"
+    },
+    {
+      "path": "experiments/wordbeam_engine_audit.py",
+      "bytes": 8647,
+      "sha256": "3f825357e541f1baf14a8842ff9d3136f6d43467fa11888ff53f10c092764483"
+    },
+    {
+      "path": "experiments/wordbeam_engine_review.md",
+      "bytes": 6187,
+      "sha256": "7c1400a51679fec4f15016c6eba3aa1302f9c488291bfcde98f36eac063987ef"
+    },
+    {
+      "path": "experiments/wordbeam_recombination_counterexample.py",
+      "bytes": 2930,
+      "sha256": "b52a414253762628fb68043814d265071cc8d6dfe7e540e9341c5cef4f8383fe"
+    },
+    {
+      "path": "experiments/wordbeam_v21_audit_export_test.go",
+      "bytes": 5127,
+      "sha256": "c74771e52e6b8c90bdb8f3b4fdf2ba643fea4a4486355cfc151016f9c7332ed1"
+    },
+    {
+      "path": "experiments/wordbeam_v21_engine_audit.py",
+      "bytes": 9207,
+      "sha256": "410b2b20529fd61db21afeba7d3d0aa48d697d2e246fe05700afaaaf03256d9a"
+    },
+    {
       "path": "k4/bluesky/README.md",
       "bytes": 3471,
       "sha256": "e8c74c291f35ea60f29fd02982bf15d64cb294a277aebcb988b38750b06c1314"
@@ -648,6 +678,16 @@
       "path": "k4/fable/b7_benchmark_proposal.md",
       "bytes": 5705,
       "sha256": "ce3a6c7a4f20be2c694cf53b50ce087aa2f51e0b509f855d9ed1f11597c7af42"
+    },
+    {
+      "path": "k4/fable/b8_wordbeam_audit/audit.json",
+      "bytes": 3667,
+      "sha256": "0438946e22a88371796e5cc066666bd0bc21c194346822dcfb2b553f51e32788"
+    },
+    {
+      "path": "k4/fable/b8_wordbeam_audit/audit.py",
+      "bytes": 6784,
+      "sha256": "a30bb203f164e1e57713fa5596bf3dcc4cfde48704633308fa98b4cfb2d21139"
     },
     {
       "path": "k4/fable/pure_trans_budget.c",
@@ -838,6 +878,46 @@
       "path": "k4/sanborn_letter_2025_11_12/documentcloud_api_26229389.json",
       "bytes": 901,
       "sha256": "3d61255077d4a4f31042958e6a964963f4e5f3202c9a40657277c107f5c06c1a"
+    },
+    {
+      "path": "k4/wordbeam/PLAN.md",
+      "bytes": 9233,
+      "sha256": "7e61f73c0040395c56ec06e4784464ad25608c70e3387a290795ca3e52b4917a"
+    },
+    {
+      "path": "k4/wordbeam/bigram.tsv",
+      "bytes": 3292349,
+      "sha256": "2c14a622534386f3ab80e5080a28819e776c64ebdf2bfcd3116714fae51648d8"
+    },
+    {
+      "path": "k4/wordbeam/graph.go",
+      "bytes": 3257,
+      "sha256": "82a888d1e778a36f91fe05051159193837ea95550c335b73225a2f971abd857d"
+    },
+    {
+      "path": "k4/wordbeam/lexicon.tsv",
+      "bytes": 505393,
+      "sha256": "bb039dab7f6445be1dd287e359f97025c10100731973bc9224552703ff62a22e"
+    },
+    {
+      "path": "k4/wordbeam/meta.json",
+      "bytes": 977,
+      "sha256": "29a72510ae26e406a300f3f35e3e1810d66e05076dfb1a527c5de8588f620cc7"
+    },
+    {
+      "path": "k4/wordbeam/prep.py",
+      "bytes": 2439,
+      "sha256": "cf0f3e192fd9b649c152ff8b4ca247241997fbee5430284f0b519eb21953d9f7"
+    },
+    {
+      "path": "k4/wordbeam/vstats.tsv",
+      "bytes": 270138,
+      "sha256": "6669d8ae25b96dfc6afe50ebb9f25d5df204a1a69050e3447a0368cddc1ad844"
+    },
+    {
+      "path": "k4/wordbeam/wordbeam.go",
+      "bytes": 26750,
+      "sha256": "1caaf4f95f7923684704b18bb86ef07f2a2e4133d5fe357987b98eba91e5679e"
     },
     {
       "path": "k4/wordbench/README.md",
@@ -1163,6 +1243,36 @@
       "path": "results/word_reset_one_error/results.json",
       "bytes": 206774,
       "sha256": "e2fd6ba602938a31a8d60f86a05fe38cb09c019d040d0499b712d46902c84ea2"
+    },
+    {
+      "path": "results/wordbeam_engine_audit_provisional.json",
+      "bytes": 2781,
+      "sha256": "f91989d8b499779a21487ffc12dd3e94932432af754d6964a63c0249d56d8780"
+    },
+    {
+      "path": "results/wordbeam_normalization_probe/go.mod",
+      "bytes": 25,
+      "sha256": "a83dfb8bf07f0786ad4e7d92aabb6341156bdb3078a4533f5f920f7bb015e69c"
+    },
+    {
+      "path": "results/wordbeam_normalization_probe/graph.go",
+      "bytes": 3257,
+      "sha256": "82a888d1e778a36f91fe05051159193837ea95550c335b73225a2f971abd857d"
+    },
+    {
+      "path": "results/wordbeam_normalization_probe/wordbeam.go",
+      "bytes": 20043,
+      "sha256": "a953d891f4542761f0417f898d80b71a7093dea58ee463635c6e340786bc4cc4"
+    },
+    {
+      "path": "results/wordbeam_recombination_counterexample.json",
+      "bytes": 1147,
+      "sha256": "ec69efe020588594dd0959d1f6a2b3de80b49d07970a5c99b14cd19e34315614"
+    },
+    {
+      "path": "results/wordbeam_v21_engine_audit.json",
+      "bytes": 2703,
+      "sha256": "448523c03269b07e1f4c2267a4348ac19a0c2a61d8cd68aabcc826d1d6a7fc24"
     }
   ]
 }
