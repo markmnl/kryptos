@@ -55,7 +55,7 @@ actual coverage rather than a blanket “verified” label.
 | E18 | Fractionation and Morse | `BLUE_SKY.md`; `RESEARCH.md`; `k4/cube_check/README.md` |
 | E19 | Carter lecture running keys | `experiments/carter_lecture.md` |
 | E20 | Keyword alphabet constructions | `experiments/column_keywords.md`; `experiments/clock_city_panel_alphabets.md` |
-| E21 | Historical World Clock evidence | `experiments/clock_historical_sources.md`; `experiments/clock_orientation_review.md`; `k4/clock_orientation/README.md`; `HUMAN_CLUES.md` |
+| E21 | Historical World Clock evidence | `experiments/clock_historical_sources.md`; `experiments/clock_orientation_review.md`; `experiments/clock_film_sources_review.md`; `k4/clock_orientation/README.md`; `HUMAN_CLUES.md` |
 | E22 | Archive photographs and human interpretations | `experiments/archive_photo_review.md`; `experiments/null_padding_source_review.md`; `HUMAN_CLUES.md` |
 | E23 | Amsco with shifts attached to grid columns | `experiments/amsco.md`; `results/amsco_columns.json`; `results/amsco_geometry_audit.json`; `results/amsco_dictionary.json`; `results/amsco_peer_audit.json` |
 | E24 | Original clue letter and current archive sources | `experiments/sanborn_letter_review.md`; `k4/sanborn_letter_2025_11_12/`; `experiments/paradigm_source_review.md`; `data/paradigm_archive/manifest.json` |
@@ -101,3 +101,5 @@ The long-term target is a compact reproducible package for the decisive result:
 the input, key, explicit algorithm, all 97 recovered letters, exact re-encryption
 and an independent verifier. That package does not exist yet because the
 objective has not been achieved.
+
+Early film lead: the [DHM programme sheet](https://www.dhm.de/assets/Zeughauskino/Download/Filmbl%C3%A4tter_Berlin.Dokument/BD72_Stadtumbau.pdf) names World Clock footage in *Berlin – Hauptstadt der DDR I*. The film has not been viewed; no additional city lettering or cipher instruction is established.
