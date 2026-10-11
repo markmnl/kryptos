@@ -56,7 +56,7 @@ actual coverage rather than a blanket “verified” label.
 | E19 | Carter lecture running keys | `experiments/carter_lecture.md` |
 | E20 | Keyword alphabet constructions | `experiments/column_keywords.md`; `experiments/clock_city_panel_alphabets.md` |
 | E21 | Historical World Clock evidence | `experiments/clock_historical_sources.md`; `experiments/clock_orientation_review.md`; `experiments/clock_film_sources_review.md`; `k4/clock_orientation/README.md`; `HUMAN_CLUES.md` |
-| E22 | Archive photographs and human interpretations | `experiments/archive_photo_review.md`; `experiments/null_padding_source_review.md`; `HUMAN_CLUES.md` |
+| E22 | Archive photographs and human interpretations | `experiments/archive_photo_review.md`; `experiments/archive_photo_review_addendum.md`; `results/archive_photo_review_addendum/`; `experiments/null_padding_source_review.md`; `HUMAN_CLUES.md` |
 | E23 | Amsco with shifts attached to grid columns | `experiments/amsco.md`; `results/amsco_columns.json`; `results/amsco_geometry_audit.json`; `results/amsco_dictionary.json`; `results/amsco_peer_audit.json` |
 | E24 | Original clue letter and current archive sources | `experiments/sanborn_letter_review.md`; `k4/sanborn_letter_2025_11_12/`; `experiments/paradigm_source_review.md`; `data/paradigm_archive/manifest.json` |
 | E25 | Sensitivity to hypothetical ciphertext substitutions | `experiments/error_budget_review.md`; `results/columnar_one_error_audit.json`; `results/structural_error_bounds.json`; `results/transposition_error_recount.json`; `results/word_reset_one_error/results.json`; `k4/error_audit/`; `k4/fable/` |
@@ -86,6 +86,7 @@ actual coverage rather than a blanket “verified” label.
 | E49 | Gap-lookahead design and junction diagnostics | `experiments/wordbeam_joint_lookahead_results.md`; `experiments/wordbeam_joint_junction_diagnostic.py`; `experiments/wordbeam_joint_gap_junction_diagnostic.py`; `results/wordbeam_joint_junction_diagnostic/audit.json`; `results/wordbeam_joint_gap_junction_diagnostic/audit.json`; `results/wordbeam_joint_lookahead_review/` |
 | E50 | Full gap bounds and exact language relaxation | `experiments/wordbeam_gap_language_results.md`; `results/wordbeam_gap_bound_reference_v2/`; `results/wordbeam_gap_language_exact/`; `results/wordbeam_gap_language_witness/`; `results/wordbeam_gap_peer_audit/`; `results/wordbeam_joint_gap_junction_diagnostic_v2/` |
 | E51 | Reusable language tables and first-token bounds | `experiments/wordbeam_gap_table_results.md`; `results/wordbeam_gap_unforced_tables/`; `results/wordbeam_gap_first_token_v2/`; `results/wordbeam_gap_first_fixed/`; `results/wordbeam_gap_table_peer_review/`; `results/wordbeam_gap_peer_provenance_restored/` |
+| E52 | Native exact language kernel and fixed-stream cache feasibility | `experiments/wordbeam_gap_native_results.md`; `results/wordbeam_gap_go_audit/`; `results/wordbeam_gap_native_review/`; `results/wordbeam_cache_observer_controls/`; `results/wordbeam_cache_observer_dev10/` |
 
 Some older running-status paragraphs in the working notebooks are historical
 entries. The latest completed result takes precedence over an earlier plan.
