@@ -89,6 +89,7 @@ actual coverage rather than a blanket “verified” label.
 | E52 | Native exact language kernel and fixed-stream cache feasibility | `experiments/wordbeam_gap_native_results.md`; `results/wordbeam_gap_go_audit/`; `results/wordbeam_gap_native_review/`; `results/wordbeam_cache_observer_controls/`; `results/wordbeam_cache_observer_dev10/` |
 | E53 | Exact suffix-row caching and lookahead integration contract | `experiments/wordbeam_gap_cache_results.md`; `experiments/wordbeam_gap_integration_plan.md`; `results/wordbeam_gap_cache_audit/`; `results/wordbeam_gap_cache_rows_audit/`; `results/wordbeam_gap_cache_review/`; `results/wordbeam_gap_tiny_baseline/` |
 | E54 | Lookahead trial monitoring and independent verification adapters | `experiments/wordbeam_lookahead_preflight.md`; `results/wordbeam_lookahead_monitor_controls/`; `results/wordbeam_lookahead_reference_cases/`; `results/wordbeam_lookahead_audit_control/`; `results/wordbeam_lookahead_witness_controls/` |
+| E55 | Lookahead integration, capped development pilot and conditional prefilter design | `experiments/wordbeam_lookahead_integration_results.md`; `experiments/wordbeam_prefilter_design_review.md`; `experiments/wordbeam_prefilter_integration_plan.md`; `results/wordbeam_lookahead_integration_audit/`; `results/wordbeam_lookahead_dev10/`; `results/wordbeam_prefilter_rounding_envelope/` |
 
 Some older running-status paragraphs in the working notebooks are historical
 entries. The latest completed result takes precedence over an earlier plan.
