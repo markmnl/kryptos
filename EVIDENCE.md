@@ -88,6 +88,7 @@ actual coverage rather than a blanket “verified” label.
 | E51 | Reusable language tables and first-token bounds | `experiments/wordbeam_gap_table_results.md`; `results/wordbeam_gap_unforced_tables/`; `results/wordbeam_gap_first_token_v2/`; `results/wordbeam_gap_first_fixed/`; `results/wordbeam_gap_table_peer_review/`; `results/wordbeam_gap_peer_provenance_restored/` |
 | E52 | Native exact language kernel and fixed-stream cache feasibility | `experiments/wordbeam_gap_native_results.md`; `results/wordbeam_gap_go_audit/`; `results/wordbeam_gap_native_review/`; `results/wordbeam_cache_observer_controls/`; `results/wordbeam_cache_observer_dev10/` |
 | E53 | Exact suffix-row caching and lookahead integration contract | `experiments/wordbeam_gap_cache_results.md`; `experiments/wordbeam_gap_integration_plan.md`; `results/wordbeam_gap_cache_audit/`; `results/wordbeam_gap_cache_rows_audit/`; `results/wordbeam_gap_cache_review/`; `results/wordbeam_gap_tiny_baseline/` |
+| E54 | Lookahead trial monitoring and independent verification adapters | `experiments/wordbeam_lookahead_preflight.md`; `results/wordbeam_lookahead_monitor_controls/`; `results/wordbeam_lookahead_reference_cases/`; `results/wordbeam_lookahead_audit_control/`; `results/wordbeam_lookahead_witness_controls/` |
 
 Some older running-status paragraphs in the working notebooks are historical
 entries. The latest completed result takes precedence over an earlier plan.
