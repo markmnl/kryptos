@@ -16,13 +16,13 @@
     },
     {
       "path": "RESEARCH.md",
-      "bytes": 292910,
-      "sha256": "3327b9c377dc97c3eb7c32d658e62052f4366a58aa5f6a8fe6b803043bf3af1b"
+      "bytes": 295448,
+      "sha256": "44e78f68176d91b54150f32a43e38dd5249e094322eb23081dd7c8b6199eb9d6"
     },
     {
       "path": "STATUS.md",
-      "bytes": 19115,
-      "sha256": "3ea7e2629d1040ddac90dff904833ecfc0b513ee4b0256d4385f27ce960bfa7e"
+      "bytes": 19303,
+      "sha256": "8887453ee07108c4f7e9f2c0b1326b87dcc0d0c4cb98e6ccf066eec306aabe48"
     },
     {
       "path": "data/carter_reply_source/manifest.json",
@@ -585,9 +585,29 @@
       "sha256": "4b7de7a71c96821adad1cfe96e25b6cef70d231273fa17fde1a38139c924bc54"
     },
     {
+      "path": "experiments/wordbeam_all_contexts_finish.py",
+      "bytes": 6560,
+      "sha256": "9c89f5eb59ba0068002bf3a78464722931efebd1b986bb212fbe0301816e3fda"
+    },
+    {
+      "path": "experiments/wordbeam_all_contexts_watch.py",
+      "bytes": 1188,
+      "sha256": "eb217c80e98774526ced438454aadc70873726baa0887557ea9ceaa50f3c9a43"
+    },
+    {
       "path": "experiments/wordbeam_audit_export_test.go",
       "bytes": 4017,
       "sha256": "590660f7d062b002f96c29f6607db847fab727d725c61077b89007a0f92bb75e"
+    },
+    {
+      "path": "experiments/wordbeam_bridge_all_contexts_plan.md",
+      "bytes": 2596,
+      "sha256": "e891deef05c9d663167ab332be904c24a1be734243cb1f9c6055cb59a2ae9198"
+    },
+    {
+      "path": "experiments/wordbeam_bridge_all_contexts_run.py",
+      "bytes": 3036,
+      "sha256": "0c15c60600a35011f41a4cb0aefa690751bdee86c0abb0bd3809a33984801e3f"
     },
     {
       "path": "experiments/wordbeam_bridge_component_audit.py",
@@ -763,6 +783,51 @@
       "path": "experiments/wordbeam_lexical_bridge_plan.md",
       "bytes": 4605,
       "sha256": "2125c8983a8b6c1d538a5288d756b5a9650f29d42db1c58c2caec948b051ec65"
+    },
+    {
+      "path": "experiments/wordbeam_middle_catalog_audit.py",
+      "bytes": 2664,
+      "sha256": "2990dce5e0490d078434c6001a262d205bcdd62361a228f07681dc5aa7a4be4b"
+    },
+    {
+      "path": "experiments/wordbeam_middle_completion_audit.py",
+      "bytes": 5092,
+      "sha256": "2c4ae3c05cd0c8342191b7de3433f5080e13d3ee17b10f95ea80ad74bef7f538"
+    },
+    {
+      "path": "experiments/wordbeam_middle_completion_catalog.py",
+      "bytes": 3200,
+      "sha256": "b6a516d8f0dcb8cc41c8ed086a55016e06b638ee0d33e539dc937450a46bbdcb"
+    },
+    {
+      "path": "experiments/wordbeam_middle_completion_observer.py",
+      "bytes": 1872,
+      "sha256": "8edfe2fd89fdf403fc3baed24921f822b033d9ff11464e7e69cdfb4263bf1e1a"
+    },
+    {
+      "path": "experiments/wordbeam_middle_completion_plan.md",
+      "bytes": 1705,
+      "sha256": "21dc6886ff97154af5c086f97b46cf6bcd48b8648b4cea3aaf22f2e5b2567edf"
+    },
+    {
+      "path": "experiments/wordbeam_middle_completion_rerank.py",
+      "bytes": 1460,
+      "sha256": "2f8a8558cc487088d99e04e1ec9d634060d686262d082b5a12e693a642a94a18"
+    },
+    {
+      "path": "experiments/wordbeam_middle_completion_results.md",
+      "bytes": 2709,
+      "sha256": "21abe86d6aae8ce2beabb53dcfae4b07b5db6df4cc90053540ea1401f4f0b28e"
+    },
+    {
+      "path": "experiments/wordbeam_middle_completions.go",
+      "bytes": 4512,
+      "sha256": "6874f58c65d76fb38b91437226c66fda0fa99b2c4cb55113f488372be3c480f4"
+    },
+    {
+      "path": "experiments/wordbeam_middle_fullscore_test.go",
+      "bytes": 1991,
+      "sha256": "ca15bd4e123163247f35ccc98a4b9df650eba49c1f501080f76e00db425bfd1b"
     },
     {
       "path": "experiments/wordbeam_pruning_observer.go",
@@ -2353,6 +2418,56 @@
       "path": "results/word_reset_one_error/results.json",
       "bytes": 206774,
       "sha256": "e2fd6ba602938a31a8d60f86a05fe38cb09c019d040d0499b712d46902c84ea2"
+    },
+    {
+      "path": "results/wordbeam_bridge_all_contexts/manifest.json",
+      "bytes": 1859,
+      "sha256": "70ef7860551d201d0693a2873e1bfc8ba250e268af72b6dc490a0bf47d153fab"
+    },
+    {
+      "path": "results/wordbeam_bridge_all_contexts/postprocessor_snapshot.json",
+      "bytes": 468,
+      "sha256": "ca0e102f4a55fbd2683449caaa8e76bb4b136eb96ebfe637e0cf8d196427ae7d"
+    },
+    {
+      "path": "results/wordbeam_bridge_all_contexts/shard0/input.json",
+      "bytes": 290691,
+      "sha256": "e03d85cf7be8cc2e94835f112f539497052846c959a5a393a40c765211eefe52"
+    },
+    {
+      "path": "results/wordbeam_bridge_all_contexts/shard1/input.json",
+      "bytes": 290671,
+      "sha256": "29b40ed7c17dce1dbb12484af83326912e76e692de53c9c550a6b21a48cd1350"
+    },
+    {
+      "path": "results/wordbeam_bridge_all_contexts/shard2/input.json",
+      "bytes": 290722,
+      "sha256": "ae2024c6770cbc6c7608ae01325463bfa42b9e435d69e2f58e93eab73752fb40"
+    },
+    {
+      "path": "results/wordbeam_bridge_all_contexts/shard3/input.json",
+      "bytes": 290706,
+      "sha256": "b06416aacc875168d02289ee702bba2d74a892088e57d9a173b7261ced7f5eef"
+    },
+    {
+      "path": "results/wordbeam_bridge_all_contexts/shard4/input.json",
+      "bytes": 290545,
+      "sha256": "df248b9bafa7e17172d600148f56e7a2f7dcc95d6e081bb9ab4b7d04dd196012"
+    },
+    {
+      "path": "results/wordbeam_bridge_all_contexts/shard5/input.json",
+      "bytes": 290482,
+      "sha256": "e5352b0850bb84bfc4d0e8dcdb9c2d0383b42cf0867d5aa486dfb311ba6a748d"
+    },
+    {
+      "path": "results/wordbeam_bridge_all_contexts/shard6/input.json",
+      "bytes": 290543,
+      "sha256": "cad02bf6fe14232f9e9cfb1560ff7c3f5ce821d4364964fac62e8087d6925de7"
+    },
+    {
+      "path": "results/wordbeam_bridge_all_contexts/shard7/input.json",
+      "bytes": 290533,
+      "sha256": "0db0aa30859e598cab3fea7c700671d9909c55effd1306c654fe1840f4f6fd73"
     },
     {
       "path": "results/wordbeam_bridge_component_audit/audit.json",
@@ -3968,6 +4083,76 @@
       "path": "results/wordbeam_gap_pair_diagnostic/unions.json",
       "bytes": 32412840,
       "sha256": "f5d510da347fdad3ead9c0d6a20859ded2160f4ff179863ef3b13abf366e081b"
+    },
+    {
+      "path": "results/wordbeam_middle_completions/audit.json",
+      "bytes": 1835,
+      "sha256": "d30c20ebfc7331558b988b301a6a6418a2ca03cbe15dbdf961a784609fd84de2"
+    },
+    {
+      "path": "results/wordbeam_middle_completions/catalog.json",
+      "bytes": 5162,
+      "sha256": "0d81978c77ac2865ff918dc6554b400a640f056f489f54311813dbb0127195e5"
+    },
+    {
+      "path": "results/wordbeam_middle_completions/catalog_audit.json",
+      "bytes": 692,
+      "sha256": "c9c971193731556b6a34dbf0a336848de6a64c897a7c424d2a9fdf9fc8a15f26"
+    },
+    {
+      "path": "results/wordbeam_middle_completions/controls_input.json",
+      "bytes": 1575,
+      "sha256": "b436c3105c8e3c1118f531825c5b0a860bc4ff994e2a4fe046ed73afb1103ecd"
+    },
+    {
+      "path": "results/wordbeam_middle_completions/controls_result.json",
+      "bytes": 17727,
+      "sha256": "8d5b7531b35954639157488b3cb85842328315a45fe484d944bbe748d9a26709"
+    },
+    {
+      "path": "results/wordbeam_middle_completions/full_input.json",
+      "bytes": 2162,
+      "sha256": "ae0e11651749bea438f0dacc29707d8c82bab814b4041fe69f04229877f29564"
+    },
+    {
+      "path": "results/wordbeam_middle_completions/full_result.json",
+      "bytes": 71505,
+      "sha256": "b0e3a2919055b8cd8364ba9ac2c80d01710030f3d8b0d08d98a5b8bd8fdee593"
+    },
+    {
+      "path": "results/wordbeam_middle_completions/go_word_score_audit.json",
+      "bytes": 213,
+      "sha256": "e3007555b2f896fc81536b93fa96a433c2f835461eb286c34e5c2034462d1acb"
+    },
+    {
+      "path": "results/wordbeam_middle_completions/go_word_score_audit.log",
+      "bytes": 26,
+      "sha256": "e0b9845e14e5aec40efb88c1904947c4d791b711ce0eccd7f59863a7ef0db7dc"
+    },
+    {
+      "path": "results/wordbeam_middle_completions/observer.json",
+      "bytes": 3068,
+      "sha256": "9640f4252237bcd8712bf7de0c846f278ce33dcaf392b99ecf8375d46a829e14"
+    },
+    {
+      "path": "results/wordbeam_middle_completions/output_snapshot.json",
+      "bytes": 371,
+      "sha256": "f65c881011c0070be5f484e9744a18a27058b4f78168b90885d80d4bae5d214a"
+    },
+    {
+      "path": "results/wordbeam_middle_completions/run_manifest.json",
+      "bytes": 846,
+      "sha256": "69f879b326e26c6653a1d677015ec6c6cf289ad22da4ca0c418fbad0e73cffab"
+    },
+    {
+      "path": "results/wordbeam_middle_completions/word_rerank.json",
+      "bytes": 446536,
+      "sha256": "7a64f106fed5dd5134c8404bfe37c0c196e64f65f70aeacc09d5a4796562f444"
+    },
+    {
+      "path": "results/wordbeam_middle_completions/word_rerank_snapshot.json",
+      "bytes": 129,
+      "sha256": "7a5fd27ae7e5a3b2569a29c95a33d577a42cb9fd90daa86d3558a30bfc648733"
     },
     {
       "path": "results/wordbeam_normalization_probe/go.mod",
