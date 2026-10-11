@@ -16,13 +16,13 @@
     },
     {
       "path": "RESEARCH.md",
-      "bytes": 284987,
-      "sha256": "dd6fdc6dfbfe71af3c55b1b3feb11962a1bb8f0a87ec7974b10746139cc9bd54"
+      "bytes": 285587,
+      "sha256": "972c9143cbc16ee948f6ad70887d9a2526ee380822ac65abcc5dbb3dd3af5618"
     },
     {
       "path": "STATUS.md",
-      "bytes": 18394,
-      "sha256": "41a3bee02404150840c1a0d8cc12b7bffaa2108b260cf1f68dd834e43114d9e5"
+      "bytes": 18399,
+      "sha256": "59981f141d826b619e62baa36417a53c5fb25b4c8318a39a51a970d19cf039e8"
     },
     {
       "path": "data/carter_reply_source/manifest.json",
@@ -711,8 +711,13 @@
     },
     {
       "path": "experiments/wordbeam_reverse_plan.md",
-      "bytes": 6404,
-      "sha256": "690872d48d498fbc6e7279fdbd72c1e46700b20ca6aa5589e32d0fddfe61688d"
+      "bytes": 7288,
+      "sha256": "30c2db15e14fc10f29ac788974eaa9760663320ab20fd0aa66dcd4b9978be909"
+    },
+    {
+      "path": "experiments/wordbeam_reverse_run_audit.py",
+      "bytes": 4642,
+      "sha256": "3169b2510892208214a8799c5cb768396970e28d2d2d3ca4939c8308f5ce2d67"
     },
     {
       "path": "experiments/wordbeam_reverse_scalar_crosscheck.py",
@@ -1715,6 +1720,11 @@
       "sha256": "a371824fa700aa1f5fc2caab720ff3afe6ebe3cd218be510f035b63016620615"
     },
     {
+      "path": "k4/wordbeam_reverse/README.md",
+      "bytes": 3436,
+      "sha256": "f032cb0aef6ffeb4dbafa41d4b8de96bc23b24565bd2273467b252bc35caa1fd"
+    },
+    {
       "path": "k4/wordbench/README.md",
       "bytes": 3429,
       "sha256": "d118f889945a98da3c6d697870c7480cfcbb36c329bd5f36aa91856a830f8e38"
@@ -2558,6 +2568,51 @@
       "path": "results/wordbeam_recombination_counterexample.json",
       "bytes": 1147,
       "sha256": "ec69efe020588594dd0959d1f6a2b3de80b49d07970a5c99b14cd19e34315614"
+    },
+    {
+      "path": "results/wordbeam_reverse_auditor_control/input.json",
+      "bytes": 225,
+      "sha256": "0f3463170b67028036e95f1263e45f44339bc6e0a02ee9791c9c6465b66a4015"
+    },
+    {
+      "path": "results/wordbeam_reverse_auditor_control/result.json",
+      "bytes": 20215,
+      "sha256": "00d98221601e94e4d177daec83301974cbe1af3dcf468564ce73814d8d0ff1c8"
+    },
+    {
+      "path": "results/wordbeam_reverse_auditor_positive_control.json",
+      "bytes": 3037,
+      "sha256": "18c5c3760c073407a302422b3f37ff57168f460347a0ce485f2f051786f253ef"
+    },
+    {
+      "path": "results/wordbeam_reverse_cli_audit/audit.json",
+      "bytes": 1355,
+      "sha256": "a936f2e0a6725897b6c999612c8aae1b201fca4f10e5ae7757625b950044e598"
+    },
+    {
+      "path": "results/wordbeam_reverse_cli_audit/exact.go",
+      "bytes": 8827,
+      "sha256": "33fcd85c45590f45e516e0d245ac8a4d2b4acc1acbf9f7306df35ce469773c1b"
+    },
+    {
+      "path": "results/wordbeam_reverse_cli_audit/go.mod",
+      "bytes": 25,
+      "sha256": "a83dfb8bf07f0786ad4e7d92aabb6341156bdb3078a4533f5f920f7bb015e69c"
+    },
+    {
+      "path": "results/wordbeam_reverse_cli_audit/graph.go",
+      "bytes": 3257,
+      "sha256": "82a888d1e778a36f91fe05051159193837ea95550c335b73225a2f971abd857d"
+    },
+    {
+      "path": "results/wordbeam_reverse_cli_audit/result.json",
+      "bytes": 14304,
+      "sha256": "47979ff99c2b43c9e4a1d858d2030f6b7a2dd6964a10464e43a2a262a1f0d3ba"
+    },
+    {
+      "path": "results/wordbeam_reverse_cli_audit/wordbeam_rev.go",
+      "bytes": 42380,
+      "sha256": "2c6897cd4ebf7aa7c7bc690612608d8d0e6c73bd60c773b126f0ad5e2f3023cf"
     },
     {
       "path": "results/wordbeam_reverse_components_audit.json",
