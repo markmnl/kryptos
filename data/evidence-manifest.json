@@ -11,18 +11,18 @@
     },
     {
       "path": "HUMAN_CLUES.md",
-      "bytes": 18484,
-      "sha256": "10234e9cf58ad19c5fe90b0994a421969c993ce1418e880a01ee670fc3ffe2f2"
+      "bytes": 18901,
+      "sha256": "c423c54f3d8a6891ed847ee2472de2c8f42089e762d84076f75c0cf1dcb79066"
     },
     {
       "path": "RESEARCH.md",
-      "bytes": 277975,
-      "sha256": "9abdfe565ff778cb5a6d434eb57e26be7ddf208cbbc5935e97439936855678f5"
+      "bytes": 280185,
+      "sha256": "78d3cefa4a832144a8cd81479e470f54f697a2a728e9c625132913afb5af18d0"
     },
     {
       "path": "STATUS.md",
-      "bytes": 17593,
-      "sha256": "f35270eca6ccf34d2a98c3ede191a615b1814a57cada81998a0d7af7af7f3789"
+      "bytes": 17740,
+      "sha256": "88c8703a886f82cc38c4a368c7ae3dabb29b34b999317384e095ff969d0d4a87"
     },
     {
       "path": "data/carter_reply_source/manifest.json",
@@ -540,6 +540,11 @@
       "sha256": "939d354e3ee2098d018c47ac5d708ab9bf8af1c640eec67679203b99fb872778"
     },
     {
+      "path": "experiments/sanborn_press_recording_review.md",
+      "bytes": 2110,
+      "sha256": "1242a4ae6b18324016a05b46c941d28d8934ac78f1c14ea9d61c33ebb8e2eeb6"
+    },
+    {
       "path": "experiments/slidefair.md",
       "bytes": 3667,
       "sha256": "09b387ed2df20cbf05077fee0a6dfdcc8c9a9c3f5cc4702b1608730d2f9c3388"
@@ -620,9 +625,14 @@
       "sha256": "dbf1f542b41bc1dd1a4961bdb3148d73faf49be7a62d1b097b340f2d4d6ed87d"
     },
     {
+      "path": "experiments/wordbeam_exact_pilot_audit.py",
+      "bytes": 4433,
+      "sha256": "3b4414110d5b7d4d77179c26491a85283dc75488cc8fdbfd1325a94277cefc82"
+    },
+    {
       "path": "experiments/wordbeam_exact_prune.md",
-      "bytes": 4451,
-      "sha256": "1d7050bd3eab97214a4506d3de7970b2e7ca7c6df8bd421279a6eecb06b203ae"
+      "bytes": 5321,
+      "sha256": "30ede464c06ede8b5c191728621756a92b8abc4ad6cf0ba2c9881b6003a8416f"
     },
     {
       "path": "experiments/wordbeam_fixed_text_audit.py",
@@ -803,6 +813,11 @@
       "path": "k4/fable/b12_dev0_r46/witnesses.py",
       "bytes": 6747,
       "sha256": "0cf406774bf0c8048b552d8b976c630c90e195a0ccc07e9f70572edab30480a4"
+    },
+    {
+      "path": "k4/fable/b13_spy_museum_event_sources.md",
+      "bytes": 2947,
+      "sha256": "9e94f249cbff230eb24f2aadae89e64074c84c7424a8d17e052a58707847a487"
     },
     {
       "path": "k4/fable/b2/coincidence_stat.log",
@@ -2070,6 +2085,26 @@
       "sha256": "975ad847246e55e1bf05d14f8c8f0a21330c2c2845dfcb015d8c4363d866e4c3"
     },
     {
+      "path": "results/wordbeam_exact_pilot/dev0/disabled/audit.json",
+      "bytes": 1460,
+      "sha256": "f9a22b4566ea664225677425d700a287c55af44e7b181a390e9f00cff1de0606"
+    },
+    {
+      "path": "results/wordbeam_exact_pilot/dev0/disabled/comparison.json",
+      "bytes": 847,
+      "sha256": "5b1b4b1525693504cd6d9100b15b536aa1f4235e6a3fba8b6d67198165df28d9"
+    },
+    {
+      "path": "results/wordbeam_exact_pilot/dev0/disabled/input.json",
+      "bytes": 225,
+      "sha256": "0f3463170b67028036e95f1263e45f44339bc6e0a02ee9791c9c6465b66a4015"
+    },
+    {
+      "path": "results/wordbeam_exact_pilot/dev0/disabled/result.json",
+      "bytes": 16110,
+      "sha256": "bdb7fa438c609e4390c48367b751fc9ff5b1a89d73c5bd054613a375c926623a"
+    },
+    {
       "path": "results/wordbeam_fixed_text_audit.json",
       "bytes": 37806,
       "sha256": "7bcc08d27d1d7e73dc5bf271a48164c7c08af605a849133eaa694ef1bf2ecd4e"
@@ -2230,9 +2265,39 @@
       "sha256": "448523c03269b07e1f4c2267a4348ac19a0c2a61d8cd68aabcc826d1d6a7fc24"
     },
     {
+      "path": "results/wordbeam_wide_pilot/dev0/audit.json",
+      "bytes": 1441,
+      "sha256": "2d19e934ed9e035a1110b7660f371beeaddaa7624c31d16e93185472ab9e30fe"
+    },
+    {
+      "path": "results/wordbeam_wide_pilot/dev0/comparison.json",
+      "bytes": 701,
+      "sha256": "dfaa56725d6252e78a4d9e83ae31f2f6529816726c0a3f136ad8dddcdef612e0"
+    },
+    {
       "path": "results/wordbeam_wide_pilot/dev0/input.json",
       "bytes": 225,
       "sha256": "c7cb43de418c4d1e433b5f9c8d3f856e3251347a74879ff7a1bb56793438d2dd"
+    },
+    {
+      "path": "results/wordbeam_wide_pilot/dev0/manifest.json",
+      "bytes": 2175,
+      "sha256": "b626843b1b7f64d8548539daac22173af8668451f7bb59fbbc92ced57d86303f"
+    },
+    {
+      "path": "results/wordbeam_wide_pilot/dev0/result.json",
+      "bytes": 16422,
+      "sha256": "382a37e7e9c8edaf287ce1f96e4578807acb02b71d77da8fd6e06fc58c23c92e"
+    },
+    {
+      "path": "results/wordbeam_wide_pilot/dev0/run.log",
+      "bytes": 50,
+      "sha256": "6d66fdb7179a7f8557794bd5a13e3e8e12598860b254de498bf28ececcd2813c"
+    },
+    {
+      "path": "results/wordbeam_wide_pilot/dev0/wordbeam_bin",
+      "bytes": 4216644,
+      "sha256": "ed0ab2b304c37e3a2e1e02ddf3f3f48dec6be6480c9902a8f13ea8008a742eae"
     }
   ]
 }
