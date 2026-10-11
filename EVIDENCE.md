@@ -66,6 +66,7 @@ actual coverage rather than a blanket “verified” label.
 | E29 | Published-row edge keys and fixed substitution per row | `experiments/panel_edge_keys.md`; `experiments/panel_edge_key_audit.py`; `results/panel_edge_key_audit.json`; `k4/fable/b6/edge_keys.py`; `k4/rowwise_mono/README.md`; `k4/rowwise_mono/rowwise_mono.json` |
 | E30 | Word boundaries and lexical support of recovery benchmarks | `experiments/quagmire_word_support.md`; `experiments/quagmire_wordbench.md`; `results/quagmire_word_support.json`; `results/quagmire_word_probe_audit.json`; `results/quagmire_wordbench_audit.json`; `k4/wordbench/fixtures.json`; `k4/quagmire_beam_ref/word_support_check.json` |
 | E31 | Word decoder implementation review | `experiments/wordbeam_engine_review.md`; `experiments/wordbeam_v21_engine_audit.py`; `results/wordbeam_v21_engine_audit.json`; `results/wordbeam_fixed_text_audit.json`; `results/wordbeam_stage1_audit.json`; `results/wordbeam_development_summary.json`; `experiments/wordbeam_pruning_trace.md`; `results/wordbeam_recombination_counterexample.json`; `k4/fable/b8_wordbeam_audit/audit.json` |
+| E32 | Binary-key and global parity capacity checks | `experiments/quagmire_parity_capacity.md`; `results/quagmire_parity_capacity_audit.json`; `results/quagmire_parity_capacity_prefix.json`; `k4/fable/b9_ewi/parity_capacity_check.py` |
 
 Some older running-status paragraphs in the working notebooks are historical
 entries. The latest completed result takes precedence over an earlier plan.

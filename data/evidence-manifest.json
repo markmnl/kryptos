@@ -16,13 +16,13 @@
     },
     {
       "path": "RESEARCH.md",
-      "bytes": 270680,
-      "sha256": "d2fb019c3f6e1a3da84ac792717e3c6034092ddbca50496f8e360fd143591383"
+      "bytes": 272686,
+      "sha256": "54b8653a1ee4a364c57e3e5a72274e48a9a2fe96b03b160e40eca596aaf3c061"
     },
     {
       "path": "STATUS.md",
-      "bytes": 16856,
-      "sha256": "ca0cf6907a59b65d163c29e669c38c93b22f189807612ed57e2755be60efd96b"
+      "bytes": 17148,
+      "sha256": "e4e065ff3c6ef9074eb7692236ce97164625851fc0e3e92bb967f85e5a215f6c"
     },
     {
       "path": "data/carter_reply_source/manifest.json",
@@ -161,8 +161,8 @@
     },
     {
       "path": "experiments/clock_film_sources_review.md",
-      "bytes": 1929,
-      "sha256": "b0f3db71ba22f7b4f2a06f9c7342e50e3ec71d902cded9bb9814658d2094378d"
+      "bytes": 2234,
+      "sha256": "0d7ea89f4b3889d1219882fdff56e1ec2b1661b62d52d201b33093b9c3e35c0b"
     },
     {
       "path": "experiments/clock_full97_exact.md",
@@ -383,6 +383,26 @@
       "path": "experiments/quagmire_linear_filter.py",
       "bytes": 4540,
       "sha256": "a7458182d4f415d487a4af59d0629ecb14b7bca12ed8dd2bbd8bb2b0a5b4ce6c"
+    },
+    {
+      "path": "experiments/quagmire_parity_capacity.md",
+      "bytes": 4121,
+      "sha256": "88db1db38a94dfa7f4c8fb829db738eb17def9a6caddc404a67ff92d147f4dfb"
+    },
+    {
+      "path": "experiments/quagmire_parity_capacity.py",
+      "bytes": 3040,
+      "sha256": "73b0d12414617981cac5cafc89b0b6913b16bf985f8333078e73a5db828cdaad"
+    },
+    {
+      "path": "experiments/quagmire_parity_capacity_audit.py",
+      "bytes": 5084,
+      "sha256": "bbd03c023482dcdae9815704d4103963bab489cacdfea9fa1b027f9585c17101"
+    },
+    {
+      "path": "experiments/quagmire_parity_capacity_prefix.py",
+      "bytes": 3746,
+      "sha256": "23a9d8990128298a0c0493c219cf797bab655d2422d13b169766690539410eb1"
     },
     {
       "path": "experiments/quagmire_parity_obligations.md",
@@ -721,8 +741,8 @@
     },
     {
       "path": "k4/fable/b10_clock_film_sources.md",
-      "bytes": 2665,
-      "sha256": "1e0c37b84a5e3f29b8a02c619ef36909126dccf8e8d44196ab0ea2fb97497e06"
+      "bytes": 4547,
+      "sha256": "07cb90c71503d84c35147c97ebd8522557c618eca872e92a07ca1510164e4bf6"
     },
     {
       "path": "k4/fable/b2/coincidence_stat.log",
@@ -813,6 +833,16 @@
       "path": "k4/fable/b9_ewi/parity.py",
       "bytes": 4638,
       "sha256": "489a3fb86dccfad1cde0fe2c0cb0f4518f514a335e56b8b03ec5dcb32519cfcf"
+    },
+    {
+      "path": "k4/fable/b9_ewi/parity_capacity_check.json",
+      "bytes": 166,
+      "sha256": "1a920e2c31a81e2b8c531c824a3cf34a01266dec98804f9a97b7cc95528595db"
+    },
+    {
+      "path": "k4/fable/b9_ewi/parity_capacity_check.py",
+      "bytes": 5232,
+      "sha256": "7e0c623e53db458310e3ceafb051a7b1a529bdd4e9f00685478420fb7784fcd0"
     },
     {
       "path": "k4/fable/b9_ewi/perturb.py",
@@ -1595,6 +1625,21 @@
       "sha256": "977375ecab279b494fb822a9fdebfa646cd9bacea06f808a28d0e10797138a74"
     },
     {
+      "path": "results/quagmire_parity_capacity_audit.json",
+      "bytes": 313246,
+      "sha256": "da51ddc550d5433db6570c7ec6b59c61fe860a488c8c9fedc0f600e0cbafe1d9"
+    },
+    {
+      "path": "results/quagmire_parity_capacity_peer_audit.json",
+      "bytes": 886,
+      "sha256": "423d6513dd5331847373ad5d3d2fa89ddc9cc525164257b87f84e14a1ad332e1"
+    },
+    {
+      "path": "results/quagmire_parity_capacity_prefix.json",
+      "bytes": 40511,
+      "sha256": "e7644330dfeb409b40f9f79bc55b41e6d868645ae00c96ed6ff1351641061c2b"
+    },
+    {
       "path": "results/quagmire_parity_obligations.json",
       "bytes": 239495,
       "sha256": "7e016c2fb7b61b05eb855b9397b5d6a1ef9743b403a653c4087b0a39867dfe52"
@@ -1730,9 +1775,19 @@
       "sha256": "db6a0b158595eee2f66199c64ac4cf3e584745a1fdd6d33e89a165556b5c3ad9"
     },
     {
+      "path": "results/wordbeam_dev12_audit.json",
+      "bytes": 3427,
+      "sha256": "99cb1f0f22fd64c956bd05ffb6bf4c12696c5700a1b8a264b8d2168ebebb6d77"
+    },
+    {
+      "path": "results/wordbeam_dev13_audit.json",
+      "bytes": 56075,
+      "sha256": "3a6d0147600ae47ac4ef29ffbb956fd1c9f5e39b4d3d0ab5216fb149f561b0da"
+    },
+    {
       "path": "results/wordbeam_development_summary.json",
-      "bytes": 9134,
-      "sha256": "d0a033aed8a0a469732c3cb0da8890dfc1be32d30462974b2c16826be4c39bee"
+      "bytes": 9856,
+      "sha256": "fe4fe02051727d8f5f3bcf9891edd9c792816a21ed1671d8b631660ae7bc0511"
     },
     {
       "path": "results/wordbeam_engine_audit_provisional.json",
