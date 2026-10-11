@@ -16,13 +16,13 @@
     },
     {
       "path": "RESEARCH.md",
-      "bytes": 298217,
-      "sha256": "025aebcfb608e3be0997320e3657049411d6900c94b44851f6da77fe4267efb7"
+      "bytes": 299776,
+      "sha256": "177b9b1a28049508e90a5694d9ea817b60376294410fa553329498cde6d7154a"
     },
     {
       "path": "STATUS.md",
-      "bytes": 19601,
-      "sha256": "76d2cacf598451536d2f2402652a5743c12b347097626d3f411debb024f7aa39"
+      "bytes": 19932,
+      "sha256": "b3e475544118f0f34f692b738d5bbbff0d738eca5e46a647dd4c3b2048d5df47"
     },
     {
       "path": "data/carter_reply_source/manifest.json",
@@ -708,6 +708,26 @@
       "path": "experiments/wordbeam_bridge_true_context_trial.py",
       "bytes": 2319,
       "sha256": "d059982574d2526efd726f3c97ac656b13fd6376667378ff56d1a4a987414626"
+    },
+    {
+      "path": "experiments/wordbeam_crossing_bound.py",
+      "bytes": 2081,
+      "sha256": "d461a810ef82af28d97008835e06a2725ed7f4a9e41ffd01a28539ff30795cda"
+    },
+    {
+      "path": "experiments/wordbeam_crossing_bound_audit.py",
+      "bytes": 5218,
+      "sha256": "eaf5a7151f4e54e83b09468ab816cf1615f91a6db7ad163473569efe27398698"
+    },
+    {
+      "path": "experiments/wordbeam_crossing_bridge_coverage.py",
+      "bytes": 2477,
+      "sha256": "2715af7b8e0bf4b0deb233ce8c5b858835ce204056948a35d7a8ddf9f3b5d80b"
+    },
+    {
+      "path": "experiments/wordbeam_crossing_bridge_plan.md",
+      "bytes": 4362,
+      "sha256": "c180d99c377f2d499c60f4c29284671964e3a8b6e60a2a955f32a81422757fcb"
     },
     {
       "path": "experiments/wordbeam_development_summary.py",
@@ -4083,6 +4103,16 @@
       "path": "results/wordbeam_bridge_true_context/terminal.json",
       "bytes": 112,
       "sha256": "0420cfd2b42516d5cc53783f11db758b3d38ec5d7e681a9d83f900c878709279"
+    },
+    {
+      "path": "results/wordbeam_crossing_bound_audit.json",
+      "bytes": 1379,
+      "sha256": "ca9fdd7e166c1a73a732113b32f5886524c7ddbef9b2fbd450568b6de023d237"
+    },
+    {
+      "path": "results/wordbeam_crossing_bridge_coverage.json",
+      "bytes": 15624,
+      "sha256": "b7815db13e5c703ce7d310ae68cdd947a52868beb88bb5e42e26a6f07d751ff1"
     },
     {
       "path": "results/wordbeam_dev02_audit.json",
