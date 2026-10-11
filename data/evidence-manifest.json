@@ -16,13 +16,13 @@
     },
     {
       "path": "RESEARCH.md",
-      "bytes": 280185,
-      "sha256": "78d3cefa4a832144a8cd81479e470f54f697a2a728e9c625132913afb5af18d0"
+      "bytes": 283275,
+      "sha256": "409e4368b5ef9468325dc24327ddbaf49722633eb014b2e089ff7b913a58fb22"
     },
     {
       "path": "STATUS.md",
-      "bytes": 17740,
-      "sha256": "88c8703a886f82cc38c4a368c7ae3dabb29b34b999317384e095ff969d0d4a87"
+      "bytes": 18203,
+      "sha256": "c6fa10c5cc9645e67787bdc23a42cc918aca094a485c2700279bac10360a6e25"
     },
     {
       "path": "data/carter_reply_source/manifest.json",
@@ -615,6 +615,11 @@
       "sha256": "46be236e66b947dc1a62d8e071bc0144e337fc4213badd67939828e121cd512d"
     },
     {
+      "path": "experiments/wordbeam_exact_competitor_audit.py",
+      "bytes": 4422,
+      "sha256": "32ffed1492499dfddfdbf694bdb306cfc2f3214cab0e67cc7c365cf3b077dc62"
+    },
+    {
       "path": "experiments/wordbeam_exact_component_audit.py",
       "bytes": 6232,
       "sha256": "4657277e59239be9ea3622256209dfc50113b292587e32f9850b7451e3670e30"
@@ -631,8 +636,18 @@
     },
     {
       "path": "experiments/wordbeam_exact_prune.md",
-      "bytes": 5321,
-      "sha256": "30ede464c06ede8b5c191728621756a92b8abc4ad6cf0ba2c9881b6003a8416f"
+      "bytes": 8387,
+      "sha256": "76acf4b990f605ab70fbbde35ccdf1a8c7336170b47a2a9cecf6fcf8db9abcc3"
+    },
+    {
+      "path": "experiments/wordbeam_exact_pruning_trace.py",
+      "bytes": 6755,
+      "sha256": "73fe85019a7d8400f4222796918f1397e055ff708517e00c0d0eb8dc657b7294"
+    },
+    {
+      "path": "experiments/wordbeam_exact_trace_audit.py",
+      "bytes": 4754,
+      "sha256": "161f23addfb8cedac9c3bbaa401e6c02eba40fcfe87951fa14fd3560478c81c6"
     },
     {
       "path": "experiments/wordbeam_fixed_text_audit.py",
@@ -678,6 +693,11 @@
       "path": "experiments/wordbeam_recombination_counterexample.py",
       "bytes": 2930,
       "sha256": "b52a414253762628fb68043814d265071cc8d6dfe7e540e9341c5cef4f8383fe"
+    },
+    {
+      "path": "experiments/wordbeam_reverse_plan.md",
+      "bytes": 4022,
+      "sha256": "99da9ed10ddf3e55941b954069250cacdf63ea4849ed8db060cf3fdfdc6654eb"
     },
     {
       "path": "experiments/wordbeam_run_audit.py",
@@ -818,6 +838,21 @@
       "path": "k4/fable/b13_spy_museum_event_sources.md",
       "bytes": 2947,
       "sha256": "9e94f249cbff230eb24f2aadae89e64074c84c7424a8d17e052a58707847a487"
+    },
+    {
+      "path": "k4/fable/b14_dev0_exact_r46/witnesses2.json",
+      "bytes": 235206,
+      "sha256": "22ac5202151f835b18d86b70c6a273e1d1b5d6cf68fd020b16493b5cd92bff1c"
+    },
+    {
+      "path": "k4/fable/b14_dev0_exact_r46/witnesses2.py",
+      "bytes": 5892,
+      "sha256": "3efaeb11e176a70b08da2e00597b731c13280e851f20dcf075dc3e6b8c1ec3fe"
+    },
+    {
+      "path": "k4/fable/b15_reverse_first_contract.md",
+      "bytes": 5405,
+      "sha256": "70f48f1eb33ffcada59f7d80bbf156d59149161fbf8d7b98c2873b0e6be54aa9"
     },
     {
       "path": "k4/fable/b2/coincidence_stat.log",
@@ -1495,6 +1530,31 @@
       "sha256": "82a888d1e778a36f91fe05051159193837ea95550c335b73225a2f971abd857d"
     },
     {
+      "path": "k4/wordbeam_exact_prune/runs/dev0_a21/frozen_hashes.txt",
+      "bytes": 1114,
+      "sha256": "744d491eda1cd94eae7771b1147f8ca7091b7d8a12ddbfc095d234c2a0e46e58"
+    },
+    {
+      "path": "k4/wordbeam_exact_prune/runs/dev0_a21/outputs_sha256.txt",
+      "bytes": 341,
+      "sha256": "dd7978669bde3a05a4cb70dc4ed62ffa464456d054a3482b0af3ad747d5a14a9"
+    },
+    {
+      "path": "k4/wordbeam_exact_prune/runs/dev0_a21/pilot_compare.json",
+      "bytes": 15509,
+      "sha256": "b60091b31a4a5495891242b092da4240210ea1bdb0a9289ca4704c768bb19e01"
+    },
+    {
+      "path": "k4/wordbeam_exact_prune/runs/dev0_a21/pilot_compare.py",
+      "bytes": 3374,
+      "sha256": "c2ab47b838a1d15de18c76845e9223fc1cd0eafc942660017c5c822f403561a9"
+    },
+    {
+      "path": "k4/wordbeam_exact_prune/runs/dev0_a21/run_pilot.sh",
+      "bytes": 851,
+      "sha256": "c8cc3be5a7fa758462dcde382b94da648d8d2ba305bde0dcc3c5c1c088a817e3"
+    },
+    {
       "path": "k4/wordbeam_exact_prune/take_audit.json",
       "bytes": 9200,
       "sha256": "db4e6bc2a01789b54e4cb587d58e3f93c5b535a9be4a1c2d33d29e48d28920b4"
@@ -2085,6 +2145,11 @@
       "sha256": "975ad847246e55e1bf05d14f8c8f0a21330c2c2845dfcb015d8c4363d866e4c3"
     },
     {
+      "path": "results/wordbeam_exact_pilot/dev0/audit.json",
+      "bytes": 5531,
+      "sha256": "fc627ba39d5b1de32f438566b6b9b8e7d7f7bab05060bc37f6da89b5c829d5c1"
+    },
+    {
       "path": "results/wordbeam_exact_pilot/dev0/disabled/audit.json",
       "bytes": 1460,
       "sha256": "f9a22b4566ea664225677425d700a287c55af44e7b181a390e9f00cff1de0606"
@@ -2103,6 +2168,96 @@
       "path": "results/wordbeam_exact_pilot/dev0/disabled/result.json",
       "bytes": 16110,
       "sha256": "bdb7fa438c609e4390c48367b751fc9ff5b1a89d73c5bd054613a375c926623a"
+    },
+    {
+      "path": "results/wordbeam_exact_pilot/dev0/enabled/audit.json",
+      "bytes": 59158,
+      "sha256": "0aa5d4b36ce7e623784627edafffc737d416d59617c3b76c4076f0d7a3b2e2e9"
+    },
+    {
+      "path": "results/wordbeam_exact_pilot/dev0/enabled/input.json",
+      "bytes": 225,
+      "sha256": "0f3463170b67028036e95f1263e45f44339bc6e0a02ee9791c9c6465b66a4015"
+    },
+    {
+      "path": "results/wordbeam_exact_pilot/dev0/enabled/result.json",
+      "bytes": 39909,
+      "sha256": "5e8d1a34a0802c3057a47546a923bb9e68de047587a1e7d4c1a1ae1345675747"
+    },
+    {
+      "path": "results/wordbeam_exact_pilot/dev0/peer_crosscheck.json",
+      "bytes": 647,
+      "sha256": "ec2904257e5cab344160b28e30f28c94bea72d4d8d5dc840d928b2ed6c7c20e2"
+    },
+    {
+      "path": "results/wordbeam_exact_pruning_trace/dev0/audit.json",
+      "bytes": 5538269,
+      "sha256": "2e57770bdcd442f8d3d5b3648fa78802edc3b8ce1c3f526927f48c285a71cd3e"
+    },
+    {
+      "path": "results/wordbeam_exact_pruning_trace/dev0/competitor_audit.json",
+      "bytes": 62036,
+      "sha256": "db7009cd516572fa3447ef382b90723a5e80caf438f1775da6838f4028e8c756"
+    },
+    {
+      "path": "results/wordbeam_exact_pruning_trace/dev0/exact.go",
+      "bytes": 8827,
+      "sha256": "33fcd85c45590f45e516e0d245ac8a4d2b4acc1acbf9f7306df35ce469773c1b"
+    },
+    {
+      "path": "results/wordbeam_exact_pruning_trace/dev0/go.mod",
+      "bytes": 25,
+      "sha256": "a83dfb8bf07f0786ad4e7d92aabb6341156bdb3078a4533f5f920f7bb015e69c"
+    },
+    {
+      "path": "results/wordbeam_exact_pruning_trace/dev0/graph.go",
+      "bytes": 3257,
+      "sha256": "82a888d1e778a36f91fe05051159193837ea95550c335b73225a2f971abd857d"
+    },
+    {
+      "path": "results/wordbeam_exact_pruning_trace/dev0/input.json",
+      "bytes": 225,
+      "sha256": "0f3463170b67028036e95f1263e45f44339bc6e0a02ee9791c9c6465b66a4015"
+    },
+    {
+      "path": "results/wordbeam_exact_pruning_trace/dev0/manifest.json",
+      "bytes": 2968,
+      "sha256": "c8af08bc0eacc227ac6f7f007fab8fefdf8badbee317de82d62cb1ac27f46f3c"
+    },
+    {
+      "path": "results/wordbeam_exact_pruning_trace/dev0/observer.go",
+      "bytes": 4399,
+      "sha256": "452ce7677363e0bc053a6a84debc57af6964e79324b6de92fb20abaec5f98bfe"
+    },
+    {
+      "path": "results/wordbeam_exact_pruning_trace/dev0/prefix_result.json",
+      "bytes": 6609,
+      "sha256": "4ca4112289c6928f4095f36ac66d915c41316f863699c44048cae2b436a7f443"
+    },
+    {
+      "path": "results/wordbeam_exact_pruning_trace/dev0/run.log",
+      "bytes": 48,
+      "sha256": "585b4e09655a493ae1683d123bc3c3960e9993db9bfff2eea1c03c6e455b3eb8"
+    },
+    {
+      "path": "results/wordbeam_exact_pruning_trace/dev0/score_anatomy_root.json",
+      "bytes": 4440,
+      "sha256": "8ee8a8e3160d8e2ba13d4a28e67e2d8d993e16f18ab2c019b1301154acff085c"
+    },
+    {
+      "path": "results/wordbeam_exact_pruning_trace/dev0/trace.json",
+      "bytes": 6437424,
+      "sha256": "14017f5cd75cd9d35a5940350244868c3f100e989163e534c5d7e8f1556fff89"
+    },
+    {
+      "path": "results/wordbeam_exact_pruning_trace/dev0/trace_bin",
+      "bytes": 4293987,
+      "sha256": "017680a089413486b8e8f0a9dfd2aff471af7b8c5a28ab4f41241f03d475340a"
+    },
+    {
+      "path": "results/wordbeam_exact_pruning_trace/dev0/wordbeam_ep.go",
+      "bytes": 31730,
+      "sha256": "b1db073dca9e4148bf610df0395f05df9aec8af15052fcbde602fdad16d776a4"
     },
     {
       "path": "results/wordbeam_fixed_text_audit.json",
