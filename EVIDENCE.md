@@ -87,6 +87,7 @@ actual coverage rather than a blanket “verified” label.
 | E50 | Full gap bounds and exact language relaxation | `experiments/wordbeam_gap_language_results.md`; `results/wordbeam_gap_bound_reference_v2/`; `results/wordbeam_gap_language_exact/`; `results/wordbeam_gap_language_witness/`; `results/wordbeam_gap_peer_audit/`; `results/wordbeam_joint_gap_junction_diagnostic_v2/` |
 | E51 | Reusable language tables and first-token bounds | `experiments/wordbeam_gap_table_results.md`; `results/wordbeam_gap_unforced_tables/`; `results/wordbeam_gap_first_token_v2/`; `results/wordbeam_gap_first_fixed/`; `results/wordbeam_gap_table_peer_review/`; `results/wordbeam_gap_peer_provenance_restored/` |
 | E52 | Native exact language kernel and fixed-stream cache feasibility | `experiments/wordbeam_gap_native_results.md`; `results/wordbeam_gap_go_audit/`; `results/wordbeam_gap_native_review/`; `results/wordbeam_cache_observer_controls/`; `results/wordbeam_cache_observer_dev10/` |
+| E53 | Exact suffix-row caching and lookahead integration contract | `experiments/wordbeam_gap_cache_results.md`; `experiments/wordbeam_gap_integration_plan.md`; `results/wordbeam_gap_cache_audit/`; `results/wordbeam_gap_cache_rows_audit/`; `results/wordbeam_gap_cache_review/`; `results/wordbeam_gap_tiny_baseline/` |
 
 Some older running-status paragraphs in the working notebooks are historical
 entries. The latest completed result takes precedence over an earlier plan.
